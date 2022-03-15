@@ -4,3 +4,11 @@
 @import "jekyll-theme-minimal";
 
 section { width: auto; float: none; padding-bottom: 50px; }
+
+p {
+  text-align: justify;
+}
+
+a:hover {
+  font-weight: normal;
+}

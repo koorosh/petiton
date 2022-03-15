@@ -2,4 +2,5 @@ title: Petition
 description:
 author: Ievgen Vorobiov
 
+markdown: kramdown
 theme: jekyll-theme-minimal
