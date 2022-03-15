@@ -23,8 +23,8 @@ Russia’s conduct was also punished with a host of unprecedented sanctions that
 international community, including the United States, the European Union, United Kingdom, Japan and Canada. Russia has
 been expelled from a number of international fora, including the vote of the Parliamentary Assembly to expel Russia from
 the Council of Europe on 15 March. However, one influential organization – the Financial Action Task Force (FATF) – has
-so far shown only a lukewarm reaction to Russia’s flagrant breaches of international law. On 4 March, FATF issued a [_
-Public Statement_](https://www.fatf-gafi.org/publications/fatfgeneral/documents/ukraine-2022.html) _on the Situation in
+so far shown only a lukewarm reaction to Russia’s flagrant breaches of international law. On 4 March, FATF issued a _[
+Public Statement](https://www.fatf-gafi.org/publications/fatfgeneral/documents/ukraine-2022.html) on the Situation in
 Ukraine_. In this statement, the organization has recognised that the deeds by the Russian Federation contravene the
 FATF’s core principles and represent a gross violation of the commitment upon which FATF Ministers agree to implement
 and support the FATF Standards. In this statement the FATF also announced that it was “reviewing Russia’s role at the
