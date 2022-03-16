@@ -10,9 +10,9 @@ actions by the Russian Federation are the aggravation of an armed conflict that 
 
 The actions of the Russian Federation are in violation
 of [Article 2(4) of the UN Charter](https://www.un.org/en/about-us/un-charter/chapter-1) and a number of international
-conventions. They have entailed a uniform condemnation of the international community. On 2 March, the General
-Assembly of the United Nations [adopted a resolution](https://www.un.org/press/en/2022/ga12407.doc.htm) demanding that
-the Russian Federation immediately end its invasion of Ukraine and unconditionally withdraw all its military forces from
+conventions. They have entailed a uniform condemnation of the international community. On 2 March, the General Assembly
+of the United Nations [adopted a resolution](https://www.un.org/press/en/2022/ga12407.doc.htm) demanding that the
+Russian Federation immediately end its invasion of Ukraine and unconditionally withdraw all its military forces from
 Ukraine. The alleged war crimes and crimes against humanity committed in Ukraine prompted the Prosecutor of the
 International Criminal Court
 to [open a formal investigation](https://www.icc-cpi.int/Pages/item.aspx?name=2022-prosecutor-statement-referrals-ukraine)
@@ -66,3 +66,8 @@ We hereby call for:
 3. Address the **FATF-style regional bodies** to terminate Russia’s membership (the Eurasian Group, MONEYVAL) and the
    observer status (Asia/Pacific group on Money Laundering, Middle East and North Africa Financial Action Task Force).
 4. Add the Russian Federation to the list of High-Risk Jurisdictions subject to a Call for Action.
+
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeS9amzXRbYW4Cctm11tLIYL6jivonDCAnU8DOoqC_q0QuHAQ/viewform?embedded=true" width="100%" height="1185" frameborder="0" marginheight="0" marginwidth="0">
+Loading…</iframe>
+
