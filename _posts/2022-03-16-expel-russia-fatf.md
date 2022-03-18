@@ -1,4 +1,9 @@
-## Petition: Expel Russia from the FATF and add it to the FATF’s “Black List”
+---
+layout: post
+title: "Petition: Expel Russia from the FATF and add it to the FATF’s “Black List”"
+categories: [petition]
+---
+
 We, the undersigned, are an international group of experts, stakeholders and members of the broader public. We were compelled to endorse this petition amid Russia’s ongoing war of aggression against Ukraine and its appalling consequences for the rule of law. The Financial Action Task Force – as the key international body responsible for fighting money laundering and terrorist financing – should take decisive and immediate steps in response to the threats and risks posed by this war of aggression.
 
 ### Russia’s war of aggression and international response
