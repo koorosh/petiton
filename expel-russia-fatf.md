@@ -1,73 +1,63 @@
-## Petition: Expel Russia from FATF and add it to the Black List
+## Petition: Expel Russia from the FATF and add it to the FATF’s “Black List”
+We, the undersigned, are an international group of experts, stakeholders and members of the broader public. We were compelled to endorse this petition amid Russia’s ongoing war of aggression against Ukraine and its appalling consequences for the rule of law. The Financial Action Task Force – as the key international body responsible for fighting money laundering and terrorist financing – should take decisive and immediate steps in response to the threats and risks posed by this war of aggression.
 
-On 24 February 2022, the Russian Federation declared a “special military operation” in Ukraine, which was followed by
-missile strikes on Ukraine’s territory and a full-scale invasion from three directions. During the first three weeks of
-Russia’s war of aggression, Russian troops have killed thousands of Ukrainian civilians and destroyed critical
-infrastructure worth billions of US dollars. Some of Russian troops’ actions – such as bombardment of maternity
-hospitals and taking civilians hostages – resemble terrorist acts more than conventional warfare. These appalling
-actions by the Russian Federation are the aggravation of an armed conflict that Russia had started against Ukraine in
-2014 with the seizure of the Crimean Peninsula, as well as parts of Luhansk and Donetsk regions.
+### Russia’s war of aggression and international response
+On 24 February 2022, the Russian Federation declared a so-called “special military operation” in Ukraine, which was followed by Russian missile strikes on Ukraine’s territory and a full-scale invasion by thousands of Russian troops into Ukraine from multiple directions. During the first three weeks of Russia’s war of aggression, Russian troops have killed thousands of Ukrainian civilians and destroyed critical infrastructure worth billions of US dollars. As of 15 March 2022, the UN High Commissioner for Human Rights (OHCHR) [recorded](https://reliefweb.int/report/ukraine/ukraine-civilian-casualties-2400-14-march-2022-enruuk) 1,834 civilian casualties in the country, and this death toll keeps increasing by the day.
 
-The actions of the Russian Federation are in violation
-of [Article 2(4) of the UN Charter](https://www.un.org/en/about-us/un-charter/chapter-1) and a number of international
-conventions. They have entailed a uniform condemnation of the international community. On 2 March, the General Assembly
-of the United Nations [adopted a resolution](https://www.un.org/press/en/2022/ga12407.doc.htm) demanding that the
-Russian Federation immediately end its invasion of Ukraine and unconditionally withdraw all its military forces from
-Ukraine. The alleged war crimes and crimes against humanity committed in Ukraine prompted the Prosecutor of the
-International Criminal Court
-to [open a formal investigation](https://www.icc-cpi.int/Pages/item.aspx?name=2022-prosecutor-statement-referrals-ukraine)
-. Ukraine also applied to the International Court of Justice with the case concerning allegations of genocide under the
-Convention on the Prevention and Punishment of the Crime of Genocide.
+The actions of Russian troops – such as bombardment of maternity hospitals and shelters of non-combatants, taking civilians hostage, shooting and shelling of humanitarian convoys during evacuation of civilians, threats of using weapons of mass destruction – are intended to instil a state of terror in the general public. These intentional acts inflict widespread suffering and fear in the civilian population in Ukraine, and thus appear to constitute terrorist acts rather than conventional warfare.
 
-Russia’s conduct was also punished with a host of unprecedented sanctions that were imposed by the members of the
-international community, including the United States, the European Union, United Kingdom, Japan and Canada. Russia has
-been expelled from a number of international fora, including the vote of the Parliamentary Assembly to expel Russia from
-the Council of Europe on 15 March. However, one influential organization – the Financial Action Task Force (FATF) – has
-so far shown only a lukewarm reaction to Russia’s flagrant breaches of international law. On 4 March, FATF issued a _[
-Public Statement](https://www.fatf-gafi.org/publications/fatfgeneral/documents/ukraine-2022.html) on the Situation in
-Ukraine_. In this statement, the organization has recognised that the deeds by the Russian Federation contravene the
-FATF’s core principles and represent a gross violation of the commitment upon which FATF Ministers agree to implement
-and support the FATF Standards. In this statement the FATF also announced that it was “reviewing Russia’s role at the
-FATF” and would “consider what future steps are necessary to uphold these core values”. However, this rhetoric was not
-followed up by any meaningful action from the FATF in the past two weeks. Such inaction gives grounds to suspicions that
-the FATF is following the core principles enshrined in its foundational documents. The Financial Action Task Force was
-established in 1989 as a part of a comprehensive international mechanism to address the problem of illicit drugs. Since
-then, it has evolved into the leading global standard-setting body for combatting money laundering, terrorist financing
-and proliferation financing. Based
-on [the updated Mandate](https://www.fatf-gafi.org/publications/fatfgeneral/documents/fatf-mandate.html) of the
-organization as of 2019, the FATF is designated to protect the integrity of the financial system and enhance its
-transparency, which in turn contributes towards global security. Yet, the continuing FATF membership of Russia – a
-country that is undermining the global security – jeopardizes these crucial goals.
+These acts of the Russian Federation are in violation of [Article 2(4) of the UN Charter](https://www.un.org/en/about-us/un-charter/chapter-1) and a number of international conventions. They have entailed a vocal condemnation of the international community. On 2 March 2022, the General Assembly of the United Nations [adopted a resolution](https://www.un.org/press/en/2022/ga12407.doc.htm) demanding that the Russian Federation immediately cease its use of force against Ukraine and immediately, completely and unconditionally withdraw all its military forces from Ukraine. The resolution was adopted with the votes of 141 nations, an overwhelming majority of the UN’s General Assembly. The alleged war crimes and crimes against humanity committed in Ukraine prompted the Prosecutor of the International Criminal Court to [open a formal investigation](https://www.icc-cpi.int/Pages/item.aspx?name=2022-prosecutor-statement-referrals-ukraine), which is ongoing. After Ukraine applied to the International Court of Justice (ICJ) with a case concerning allegations of genocide under the Convention on the Prevention and Punishment of the Crime of Genocide, [the ICJ ordered](https://www.icj-cij.org/public/files/case-related/182/182-20220316-ORD-01-00-EN.pdf) Russia on 16 March to immediately suspend its military operations in Ukraine and to take no steps in furtherance of those operations.
 
-The Russian Federation has been a FATF member since 2003. As it was granted the full FATF membership, Russia took an
-obligation to pursue the values, principles and mandate of the organization. However, Russia’s undeclared and unprovoked
-war against Ukraine goes against these basic principles of international cooperation enshrined in the FATF Mandate.
-Given that the Russian Federation has breached the principles and mandate of the FATF, the **Russian Federation should
-be expelled from the organisation**. Furthermore, as Russia has now become a heavily sanctioned state, there is a
-growing risk that it would act as a perpetrator of financial crime – rather than a party that contributes to combatting
-it in the spirit of international cooperation. It is increasingly likely that such attempts to circumvent the sanctions
-regime would jeopardize the integrity of the global financial system. One of the tasks in the FATF’s Mandate is the
-following: “Identifying and engaging with high-risk, non-co-operative jurisdictions and those with strategic
-deficiencies in their national regimes, and co-ordinating action to protect the integrity of the financial system
-against the threat posed by them”. FATF currently lists some countries
-as [High-Risk Jurisdictions subject to a Call for Action](http://www.fatf-gafi.org/publications/high-risk-and-other-monitored-jurisdictions/documents/call-for-action-february-2020.html) (
-also known as a “black list”), as they exhibit “significant strategic deficiencies in their regimes to counter money
-laundering, terrorist financing, and financing of proliferation”. Given the rapidly growing threat that Russia poses to
-the integrity of the global financial system, **FATF should proactively add the Russian Federation to the list of such
-High-Risk Jurisdictions**.
+These breaches of international law by the Russian Federation are of a systematic nature. In fact, Russia’s ongoing war against Ukraine is a continuation of the armed conflict that Russia had started against Ukraine in 2014, when it had illegally seized the Crimean Peninsula and parts of Luhansk and Donetsk regions. Thus, Russia has repeatedly violated the sovereignty and territorial integrity of Ukraine contrary to its own commitments in the 1994 [Budapest Memorandum on Security Assurances](https://treaties.un.org/Pages/showDetails.aspx?objid=0800000280401fbb), as Ukraine voluntarily gave up its nuclear weapons and joined the Treaty on the Non-Proliferation of Nuclear Weapons.
 
-We hereby call for:
+Russia’s war of aggression has been punished with a host of unprecedented economic sanctions imposed by the members of the international community, including the United States, the European Union, the United Kingdom, Japan and Canada. In a clear sign of its growing international isolation, Russia has been expelled from a number of important international organizations: most recently, from the Council of Europe on 16 March.
 
-1. **The FATF President**: to convene additional extraordinary meeting of the FATF Plenary under the para 25 of the FATF
-   Mandate, given the current circumstances and the need to provide decisive and adequate response to Russia’s violation
-   of the FATF’s principle and mandate.
-2. **The FATF Plenary**: to consider the expulsion of the Russian Federation from the FATF membership as guided by para
-   20 (e).
-3. Address the **FATF-style regional bodies** to terminate Russia’s membership (the Eurasian Group, MONEYVAL) and the
-   observer status (Asia/Pacific group on Money Laundering, Middle East and North Africa Financial Action Task Force).
-4. Add the Russian Federation to the list of High-Risk Jurisdictions subject to a Call for Action.
+### Russia should no longer remain a FATF member
 
+However, one influential organization – the Financial Action Task Force (FATF) – has so far shown only a lukewarm reaction to Russia’s flagrant breaches of international law. FATF is the leading global standard-setting body for combatting money laundering, terrorist financing and proliferation financing. On 4 March, a week into the war, FATF issued a __[Public Statement](https://www.fatf-gafi.org/publications/fatfgeneral/documents/ukraine-2022.html) on the Situation in Ukraine__. In this statement, the organization has recognised that the actions of the Russian Federation contravene the FATF’s core principles and represent a gross violation of the commitments upon which FATF Ministers agree to implement and support the FATF Standards.
+
+Notably, the FATF statement has announced that FATF is “reviewing Russia’s role at the FATF” and would “consider what future steps are necessary to uphold these core values”. However, this rhetoric was not followed up by any meaningful action in the subsequent two weeks. Such inaction gives grounds to suspicions that the FATF is not following the core principles enshrined in its foundational documents.
+
+Based on [the updated Mandate](https://www.fatf-gafi.org/publications/fatfgeneral/documents/fatf-mandate.html) of the organization as of 2019, the FATF is tasked to protect the integrity of the financial system and to enhance its transparency, which in turn contribute to global security. Yet, the continuing FATF membership of the Russian Federation – a country that is dismantling both regional and global security – undermines these crucial goals and weakens the FATF’s institutional integrity.
+
+The Russian Federation has been a FATF member since 2003. When it was granted the membership, Russia undertook an obligation to pursue the values, principles and mandate of the organization. However, Russia’s undeclared and unprovoked war against Ukraine goes against these basic principles of international cooperation enshrined in the FATF Mandate. Therefore, the **Russian Federation’s membership at FATF should be immediately suspended,** and if its war of aggression against Ukraine continues, **Russia should be expelled from the organization**.
+
+The Government of Ukraine has already taken a number of steps proposing that the Russian Federation be expelled from the FATF and included in the FATF list of the countries whose actions proliferate the weapons of mass destruction. To that effect, Ukraine has already [sent official requests to the leadership of FATF](https://www.rada.gov.ua/news/Top-novyna/220362.html), addressed letters to the governments of its foreign partners and stepped up political pressure through its diplomatic offices abroad. However, such official channels appear to be insufficient. That is why it is now time for the international community of experts and civil society to publicly articulate their position with regard to this urgent issue.
+
+### Russia should be black-listed as a “High-Risk Jurisdiction”
+
+A number of actions by Russia undermine the current system of preventing money-laundering, terrorist financing and proliferation financing (ML/TF/PF). In the run-up to its invasion of Ukraine, Russia has conducted significant malicious cyber-activity targeting large financial institutions and IT systems in Ukraine. Russia’s military activities against civilian infrastructure in Ukraine have inhibited national and international programs in Ukraine aiming at preventing ML/TF/PF.
+
+
+Some methods that Russian armed forces deploy in their war against Ukraine indicate that **the Russian Federation engages in terrorist activity as a state actor, which is the very activity that FATF should prevent.** Currently, the Russian armed forces are occupying two nuclear power plants in Ukraine (Chornobyl NPP and Zaporizhzhia NPP) and engage in reckless armed conduct on their premises. For example, on March 14, Russian troops detonated ammunitions at the Zaporizhzhia NPP. Such acts may well result in adverse consequences to public health and the environment. They appear to be motivated by the perverse logic of intimidating and blackmailing Ukraine and its Western partners.
+
+
+The UN General Assembly [Resolution A/RES/49/60](http://www.un-documents.net/a49r60.htm) “Measures to eliminate international terrorism” provides that:
+
+> “[…] 3. Criminal acts intended or calculated to provoke a state of terror in the general public, a group of persons or individuals for political purposes are in any circumstance unjustifiable, whatever the considerations of a political, philosophical, ideological, racial, ethnic, religious or any other nature that may be invoked to justify them.”
+
+Under the Resolution, States are obliged to fulfill their obligations under the Charter of the United Nations and other provisions of international law with respect to combating international terrorism. This obligation includes refraining from organizing, instigating, facilitating, financing, encouraging or tolerating terrorist activities. Notably, the [IAEA General Conference decision GC(53)/DEC/13 of 2009](https://www.iaea.org/sites/default/files/gc/gc34res-533_en.pdf) states that “any armed attack on and threat against nuclear facilities devoted to peaceful purposes constitutes a violation of the principles of the United Nations Charter, international law and the Statute of the Agency”. Thus, Russia has failed to comply with international obligations to prevent terrorist acts at nuclear facilities.
+
+Another important development that impacts Russia’s position in the international system of preventing money laundering and terrorist financing is that the **Russian Federation has now become the most sanctioned state in the world**. There is a growing risk that Russia will increasingly act as a perpetrator of financial crime and engage in sanctions evasion – rather than a party that contributes to combatting them in the spirit of international cooperation.
+
+It is increasingly likely that Russia’s attempts to circumvent the sanctions regime and refrain from good-faith cooperation with other jurisdictions will severely jeopardize the integrity of the global financial system. This threat, in turn, calls on the increased vigilance both from the public and the private sector in other jurisdictions. In that regard, it is important to recall the following task in the FATF’s Mandate:
+
+> “Identifying and engaging with high-risk, non-co-operative jurisdictions and those with strategic deficiencies in their national regimes, and co-ordinating action to protect the integrity of the financial system against the threat posed by them”.
+
+FATF currently lists two countries as [High-Risk Jurisdictions subject to a Call for Action](http://www.fatf-gafi.org/publications/high-risk-and-other-monitored-jurisdictions/documents/call-for-action-february-2020.htmlv) (also known as a “Black list”), as these countries exhibit “significant strategic deficiencies in their regimes to counter money laundering, terrorist financing, and financing of proliferation”. Given the rapidly growing threat that Russia poses to the integrity of the global financial system and its breach of the UN General Assembly Resolution on measures to be taken to prevent terrorism, **FATF should follow a risk-based approach and add the Russian Federation to the list of such High-Risk Jurisdictions**.
+It should be stressed that such a course of action would also afford the FATF a possibility to adapt to future changes. Previously, the FATF has rightly called on all competent authorities to facilitate information sharing with their private sectors and to mitigate any money laundering / terrorist financing / proliferation financing risks identified. Therefore, all FATF members should be vigilant about the emerging risks from a likely circumvention of measures taken to protect the international financial system from such risks resulting from Russia’s war of aggression in Ukraine. If Russia ceases its hostilities and returns to compliance with international law, the FATF will be in a position to re-assess the impact of Russia’s war of aggression on Russia’s AML/CFT regime and to propose steps for Russia’s removal from the black list.
+
+### It’s time for the FATF to act
+We, the undersigned, hereby call for:
+1. **The FATF President**: to **convene an additional extraordinary meeting of the FATF Plenary** under para 25 of the FATF Mandate, given the current circumstances and the need to provide a decisive and adequate response to Russia’s violation of the FATF’s principle and mandate.
+
+2. **The FATF Plenary**: to immediately **suspend the Russian Federation’s membership** at FATF, and if Russia’s war of aggression against Ukraine continues, to **proceed with the expulsion of the Russian Federation from the FATF membership** as guided by para 20 (e) of the FATF Mandate.
+
+3. **The FATF President**: to address the FATF-style regional bodies to terminate Russia’s membership (the Eurasian Group, MONEYVAL) and the observer status (Asia/Pacific group on Money Laundering, Middle East and North Africa Financial Action Task Force).
+
+4. **The FATF Plenary**: add the Russian Federation to the list of High-Risk Jurisdictions subject to a Call for Action and to communicate this decision publicly.
+
+### Signed by:
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeS9amzXRbYW4Cctm11tLIYL6jivonDCAnU8DOoqC_q0QuHAQ/viewform?embedded=true" width="100%" height="1185" frameborder="0" marginheight="0" marginwidth="0">
 Loading…</iframe>
-
