@@ -62,6 +62,19 @@ We, the undersigned, hereby call for:
 
 4. **The FATF Plenary**: add the Russian Federation to the list of High-Risk Jurisdictions subject to a Call for Action and to communicate this decision publicly.
 
+### Organizational details
+
+This petition has been drafted and circulated by:
+
+- Mr. Ievgen Vorobiov (LL.M., policy consultant, former expert at the National Bank of Ukraine) and
+- Mr. Sergii Rybchenko (AML/financial crime expert at an international organisation).
+
+The names of petition signatories are listed below, just under the Signature Form.
+
+This list of signatories will be updated on a regular basis, as additional people sign the petition.
+
+At the end of March, the petition will be sent to the FATF along with the names of the signatories.
+
 ### Sign the petition below
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeS9amzXRbYW4Cctm11tLIYL6jivonDCAnU8DOoqC_q0QuHAQ/viewform?embedded=true" width="100%" height="1185" frameborder="0" marginheight="0" marginwidth="0">
