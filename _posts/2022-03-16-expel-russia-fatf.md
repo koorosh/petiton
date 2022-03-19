@@ -45,7 +45,7 @@ Under the Resolution, States are obliged to fulfill their obligations under the 
 
 Another important development that impacts Russia’s position in the international system of preventing money laundering and terrorist financing is that the **Russian Federation has now become the most sanctioned state in the world**. There is a growing risk that Russia will increasingly act as a perpetrator of financial crime and engage in sanctions evasion – rather than a party that contributes to combatting them in the spirit of international cooperation.
 
-It is increasingly likely that Russia’s attempts to circumvent the sanctions regime and refrain from good-faith cooperation with other jurisdictions will severely jeopardize the integrity of the global financial system. This threat, in turn, calls on the increased vigilance both from the public and the private sector in other jurisdictions. In that regard, it is important to recall the following task in the FATF’s Mandate:
+It is likely that Russia’s attempts to circumvent the sanctions regime and refrain from good-faith cooperation with other jurisdictions will severely jeopardize the integrity of the global financial system. This threat, in turn, calls on the increased vigilance both from the public and the private sector in other jurisdictions. In that regard, it is important to recall the following task in the FATF’s Mandate:
 
 > “Identifying and engaging with high-risk, non-co-operative jurisdictions and those with strategic deficiencies in their national regimes, and co-ordinating action to protect the integrity of the financial system against the threat posed by them”.
 
