@@ -66,7 +66,7 @@ We, the undersigned, hereby call for:
 
 This petition has been drafted and circulated by:
 
-- Mr. Ievgen Vorobiov (LL.M., policy consultant, former expert at the National Bank of Ukraine) and
+- Mr. [Ievgen Vorobiov](https://www.linkedin.com/in/vorobyov/) (LL.M., policy consultant, former expert at the National Bank of Ukraine) and
 - Mr. Sergii Rybchenko (AML/financial crime expert at an international organisation).
 
 The names of petition signatories are listed below, just under the Signature Form.
