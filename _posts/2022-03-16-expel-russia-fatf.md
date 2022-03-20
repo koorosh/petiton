@@ -83,7 +83,9 @@ At the end of March, the petition will be sent to the FATF along with the names 
 - Ian Richardson, retired British prosecutor, United Kingdom;
 - Samantha Sheen, anti-financial crime and legal advisory expert, Canada;
 - Timothy Ash, economist, United Kingdom;
+- Anders Åslund, economist, United States;
 - Johan van der Vlist, international financial advisor, The Netherlands;
+- Ian Bond, Foreign policy analyst and former diplomat, United Kingdom;
 - Maria Shagina, Finnish Institute of International Affairs;
 - John Cubbon, member of Guernica 37 International Justice Chambers, UK;
 - Matthew Caruana Galizia, the Daphne Caruana Galizia Foundation, Malta;
