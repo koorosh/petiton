@@ -84,19 +84,27 @@ At the end of March, the petition will be sent to the FATF along with the names 
 - Samantha Sheen, anti-financial crime and legal advisory expert, Canada;
 - Timothy Ash, economist, United Kingdom;
 - Johan van der Vlist, international financial advisor, The Netherlands;
+- Maria Shagina, Finnish Institute of International Affairs;
 - John Cubbon, member of Guernica 37 International Justice Chambers, UK;
 - Matthew Caruana Galizia, the Daphne Caruana Galizia Foundation, Malta;
+- Garvan Corkery, Bar of Ireland;
+- Jane Jee, International Compliance Association fellow, United Kingdom;
+- Sheila Lorance, Marion County Sheriff’s Office Commander (retired), US;
 - Stephen Staten, former law enforcement analyst, United States;
 - Francesca Signorio, trained FATF assessor, Italy;
 - Aiste Urbanaviciute, Danske Bank, Lithuania;
 - Peter Jones, AML expert, United Kingdom;
+- Charlie Greer, AML expert, United Kingdom;
+- Daniils Bokta, AML Analyst, Latvia;
+- Kateryna Mari, Senior Compliance Officer, France;
 - Jeff Kaye, Tax Justice Network, United Kingdom;
+- Igor Bereza, consultant in AML/CFT;
 - Katarina Grbesa, rule of law & human rights expert, Croatia;
 - Mihaita Barbutu, Romanian Police;
 - Anders Ahlqvist, Swedish National Police;
-- Charlie Greer, AML expert, United Kingdom;
-- Garvan Corkery, Bar of Ireland;
 - Raul Junco, Guardia Civil, Spain;
+- Slawomir Mirkowski, Polish Chamber of Statutory Auditors;
+- Anton Moiseienko, Australian National University;
 - Todor Tagarev, Bulgarian Academy of Sciences, Bulgaria;
 - Ravinder Pal Singh, India, formerly at SIPRI.
 
@@ -105,18 +113,15 @@ At the end of March, the petition will be sent to the FATF along with the names 
 
 - Yaroslav Yurchyshyn, member of Parliament of Ukraine (Verkhovna Rada);
 - Alona Verner, lawyer at Parliament of Ukraine (Verkhovna Rada);
-- Denys Khokhlov, Head of the Division of Anti-Money Laundering and Combating the Financing of Terrorism at Ministry of Finance of Ukraine;
-- Iryna Priazhentseva, Nataliia Antonenko, Roman Kozlov, Andrii Derhun - National Bank of Ukraine;
-- Igor Gaievskyi, Oleksandr Hlushchenko, Liudmyla Ponomarenko, Andriy Synenko, Dmytro Reznichenko, Roman Matiukhov, Anatolii Movchun, Inga Khabenko, Nataliia Maksymiuk, Sergiy Andryushechkin, Iryna Shuliak, Lesia Lesyk, Serhii Starcheskyi, Yana Ovsiannikova - State Financial Monitoring Service of Ukraine (Financial Intelligence Unit of Ukraine);
-- Olha Osinska, Ministry of Digital Transformation of Ukraine;
+- Denys Khokhlov, Nataliia Osadcha, Violetta Apanasenko, Liudmila Palamar, Ruslan Baranov, Oksana Venchak, Anton Kolieinikov, Olena Ponomarenko, Liudmyla Mozghova, Oleksandr Sapronov - Ministry of Finance of Ukraine;
+- Iryna Priazhentseva, Nataliia Antonenko, Roman Kozlov, Andrii Derhun, Serhii Soltyk, Ihor Prykhodko, Ivan Levkivskyy, Yuri Kod, Anzhela Melnyk, Denys Kulahin, Natalia Haladym - National Bank of Ukraine;
+- Igor Gaievskyi, Oleksandr Hlushchenko, Liudmyla Ponomarenko, Andriy Synenko, Dmytro Reznichenko, Roman Matiukhov, Anatolii Movchun, Inga Khabenko, Nataliia Maksymiuk, Sergiy Andryushechkin, Iryna Shuliak, Lesia Lesyk, Serhii Starcheskyi, Yana Ovsiannikova, Hanna Zelinska, Volodymer Davydiuk, Olha Stepenko, Yurii Yeremenko, Anastasiia Bezuhla, Mariia Radchenko, Maksym Vasiuk, Lyibov Pidhorodetska, Igor Lipsky - State Financial Monitoring Service of Ukraine (Financial Intelligence Unit of Ukraine);
+- Olha Osinska, Kristina Havryliuk, Tetiana Bortnyk - Ministry of Digital Transformation of Ukraine;
 - Lilia Petrova, National Securities and Stock Market Commission;
-- Oleh Fedorov, Vira Mykhailenko - judges of the High Anti-Corruption Court of Ukraine;
-- Natalya Shuklina, Vice-rector of the National School of Judges of Ukraine;
-- Olga Metliaieva, judge of Kyiv Court of Appeal;
-- Oleksandr Garskiy, judge of Malinovsky District Court of Odesa;
-- Oleksandra Zhukovska, judge of Dubno District Court;
-- Iryna Didenko, Oleksandr Melnyk, Viktor Mysiak - Office of the Prosecutor General of Ukraine;
-- Volodymyr Vasylchuk, head of Detective Unit at the National Anti-Corruption Bureau of Ukraine (NABU).
+- Judges Oleh Fedorov, Vira Mykhailenko, Olga Metliaieva, Oleksandr Garskiy, Oleksandra Zhukovska, Lesia Fedorak, Oleksandr Yuryev, Serhii Kovtun, Andriy Potapenko, Lidia Faryna, Nadiia Stefaniv, Tymur Khamzin, Kateryna Kotelva, Arkadiy Bushchenko, Natalia Besarab, Oksana Oliinyk, Viktor Maslov, Natalia Bilyk;
+- Natalya Shuklina, Oleksandr Ishchenko, Kateryna Sliusareva, Tetyana Budnichenko, Oksana Polna, Tamara Zakrevska, Iryna Nikolenko - National School of Judges of Ukraine;
+- Iryna Didenko, Oleksandr Melnyk, Viktor Mysiak, Yurii Khyt, Aleksandr Hanzenko, Nataliia Dubchak, Alla Sanduliak, Oleksandr Hutsol, Anastasia Krasun - Office of the Prosecutor General of Ukraine;
+- Volodymyr Vasylchuk, Vasyl Hudz, Valeriia Zhukova, Volodymyr Usikov, Yurii Kharkevych, Vitalii Kriutchenko, Kateryna Dotsenko, Ganna Gorbenko, Denys Giulmagomedov - National Anti-Corruption Bureau of Ukraine.
 
 
 ### Sign the petition below
@@ -128,9 +133,8 @@ Loading…</iframe>
 
 These signatories come from the civil society, academia and the private sector, both in Ukraine and in other countries. Many of the signatories below are finance and legal professionals in Ukraine.
 
-- Igor Bereza, consultant in AML/CFT
-- Maksym Oshchepkov, European Union Advisory Mission to Ukraine
-- Yuliia Dmytrenko, ING, The Netherlands
+- Maksym Oshchepkov
+- Yuliia Dmytrenko
 - Cosima Lust
 - Jon Steiger
 - Debra Konieczko
@@ -158,13 +162,11 @@ These signatories come from the civil society, academia and the private sector, 
 - Serg Mart
 - Olga Reshetova
 - Liudmyla Pustovoit
-- Ganna Gorbenko
 - Ihor Masiakin
 - Svitlana  Hladkova
 - Artem Kaliuzhny
 - Andrii Shuran
 - Roman Yemets
-- Violetta Apanasenko
 - Anastasiia Melnyk
 - Olga Yemets
 - Yevhenii  Yatsyshin
@@ -172,9 +174,8 @@ These signatories come from the civil society, academia and the private sector, 
 - Tetiana Shevtsova
 - Anzhelika  Divak
 - Liza Herasymchuk
-- Maksym Vasiuk
 - Timur Dzhafarov
-- Polyakov Vadym
+- Vadym Polyakov
 - Eduard Afonin
 - Illia Ivanusa
 - Olena Vylehzhanina
@@ -190,9 +191,7 @@ These signatories come from the civil society, academia and the private sector, 
 - Ivan Murzin
 - Vadim Kashpar
 - Vadym  Luhinin
-- Nataliia Osadcha
 - Illya Golovashenko
-- Олександр Сапронов
 - Maksym  Yatsyshyn
 - Tamara  Solovei
 - Mykyta Korzh
@@ -211,7 +210,6 @@ These signatories come from the civil society, academia and the private sector, 
 - Pavlo  Kryvutsa
 - Yuriy Pita
 - Daria  Halushko
-- Liudmila  Palamar
 - Kateryna Berdnikova
 - Serhii Koromyslo
 - Oleksii Krykun
@@ -229,7 +227,6 @@ These signatories come from the civil society, academia and the private sector, 
 - Viktoriia Popyk
 - Lobov Pavlo
 - Ivan Voichuk
-- Nataliia Dubchak
 - Alexander  Tyutyunik
 - Anastasiia  Simachenko
 - Mykhailo Brzhestovsky
@@ -242,7 +239,6 @@ These signatories come from the civil society, academia and the private sector, 
 - Liudmyla Levytska
 - Vika  Zagranichna
 - Yana Oliinyk
-- Ruslan Baranov
 - Roman Vlasenko
 - Marat Khodzhaiev
 - Vira Chulinda
@@ -252,12 +248,9 @@ These signatories come from the civil society, academia and the private sector, 
 - Eduard  Butov
 - Yuriy Tomin
 - Oksana Muzychuk
-- Venchak Oksana
 - Vasylyna  Vyshnevska
 - Ihor Oleksyn
-- Oksana Venchak
 - Maria Savinova
-- Lesia Lesyk
 - Maksym Lazariev
 - Anna Sdobnova
 - Ruslana Martyniv
@@ -270,8 +263,6 @@ These signatories come from the civil society, academia and the private sector, 
 - Myroslava Nechai
 - Anastasia Kurovska
 - Zhanna Savych
-- Anton Kolieinikov
-- Denys Giulmagomedov
 - Artem Morhunenko
 - Yelyzaveta Ushcheka
 - Olena Hrabovska
@@ -287,7 +278,6 @@ These signatories come from the civil society, academia and the private sector, 
 - Anna Savchuk
 - Svitlana Lytvynenko
 - Dimiter Berbatob
-- Yurii Yeremenko
 - Liubov Lytovchak
 - Sergii Voitiuk
 - Andriy Apanasenko
@@ -296,7 +286,6 @@ These signatories come from the civil society, academia and the private sector, 
 - Alex Ilchenko
 - Alexei Yakushkin
 - Ammuna Dabra
-- Kateryna  Mari
 - Alex Ilchenko
 - Olga Fedorenko
 - Maryna Boroda
@@ -330,7 +319,6 @@ These signatories come from the civil society, academia and the private sector, 
 - Vita Biriukova
 - Nadiia Yaroshevska
 - Olga Kushnir
-- Mihailo Vjacheslavovich
 - Vladimir Yarenko
 - Khrystyna  Pavlivets
 - Zoia Nesterovska
@@ -357,14 +345,13 @@ These signatories come from the civil society, academia and the private sector, 
 - Katrin Tkachenko
 - Oleksandr Shatkovskyi
 - Viktoriia Shportun
-- Yuri Kod
 - Olena Bondar
 - Anastasiia  Dementieva
 - Oleh Tykhoniuk
 - Amilina Alina
 - Ruslan Soloviov
 - Larysa Yanello
-- Nikolenko  Larysa
+- Larysa Nikolenko
 - Vitaliy Ria
 - Svitlana Sokolova
 - Oksana Goyuk
@@ -389,11 +376,9 @@ These signatories come from the civil society, academia and the private sector, 
 - Nataliia Baidachna
 - Halyna Yanichko
 - Olga  Turkevych
-- Olena Ponomarenko
 - Oleksandr  Karpov
 - Slavik Tabachk
 - Iryna Ivashyna
-- Lyibov Pidhorodetska
 - Tetiana Shestak
 - Inna Medvedieva
 - Lesia Rura
@@ -401,20 +386,15 @@ These signatories come from the civil society, academia and the private sector, 
 - Larysa Kotliarenko
 - Ihor Shvai
 - Aleksey  Dobrovolskyi
-- Misha Misha
-- Hanna Zelinska
 - Olga Kolesnikova
 - Edgar Danilchenko
 - Michael Khoziashev
 - Aleksey  Oleynik
 - Viktorea Faska
 - Viktoria Lusochenko
-- Anzhela  Melnyk
-- Kristina  Havryliuk
 - Volodymyr Korniienko
 - Olha Hoziasheva
-- Anastasiia Bezuhla
-- Laktionova Olha
+- Olha Laktionova
 - Svitlana Kovalchuk
 - Andrii Kukharuk
 - Viktorija  Anikhina
@@ -437,7 +417,7 @@ These signatories come from the civil society, academia and the private sector, 
 - Anton Smolianyi
 - Oksana Gubina
 - Nataliia Makar
-- Abramets Antonina
+- Antonina Abramets
 - Tetiana Tsarenko
 - Tetiana  Medvid
 - Yuriy Matsyk
@@ -446,7 +426,7 @@ These signatories come from the civil society, academia and the private sector, 
 - Denys  Kovalchuk
 - Iryna Bondarchuk
 - Sergey Grishko
-- KUDRIA  Maryna
+- Maryna Kudria
 - Iryna Tymoshenko
 - Таmila Nyzhnyk
 - Sonya  Menkik
@@ -454,7 +434,7 @@ These signatories come from the civil society, academia and the private sector, 
 - Kateryna Lokoshchenko
 - Sergii Papernik
 - Marta Hvozdetska
-- Lyudmila  Shmyhanivsja
+- Lyudmila Shmyhanivsja
 - Tetiana Negria
 - Oleksandra  Kuzmenko
 - Yevhenii Bondarenko
@@ -466,9 +446,9 @@ These signatories come from the civil society, academia and the private sector, 
 - Olena Pykhtina
 - Serhii Koliada
 - Vadim Serdyuk
-- Yashchuk  Myroslava
-- Olexandra  Salata
-- Nataliia  Semenyshena
+- Myroslava Yashchuk
+- Olexandra Salata
+- Nataliia Semenyshena
 - Olha Tunus
 - Svetlana  Orlova
 - Galiya Mykolyshyna
@@ -485,7 +465,7 @@ These signatories come from the civil society, academia and the private sector, 
 - Oleg Gryniuk
 - Olga  Levandovska
 - Iryna Kruhlikova
-- Line  Alexandr
+- Alexandr Line
 - Natalia Holieva
 - Iryna Kochetova
 - Olha  Onyshchuk
@@ -494,8 +474,8 @@ These signatories come from the civil society, academia and the private sector, 
 - Larysa Tsuk
 - Igor Yakobchuk
 - Janna Karpenko
-- Mariia  Dubravina
-- Oksana  Hudovych
+- Mariia Dubravina
+- Oksana Hudovych
 - Inna Zhyhula
 - Natalia Bohdan
 - Vladimir Ivashchtnko
@@ -505,7 +485,7 @@ These signatories come from the civil society, academia and the private sector, 
 - Iaroslav Prystai
 - Viktoriia Lavrenchuk
 - Olena Ivashchenko
-- Shtuts Natalia
+- Natalia Shtuts 
 - Natalia Кrupa
 - Anastasiia  Ivanovska
 - Maryna Iliukhina
@@ -514,13 +494,12 @@ These signatories come from the civil society, academia and the private sector, 
 - Yevgen Sakhno
 - Oleksandr  Ivashyna
 - Halyna Polyakova
-- Osadchay Natalya
+- Natalya Osadchay
 - Volodymyr Mnishch
 - Hanna Tykha
 - Oleksandra Vasylenko
 - Taras Popelnytskyy
 - Yana Dudka
-- Mariia Radchenko
 - Vlad Bondarenko
 - Anastasiia  Kochetova
 - Leonid  Debunov
@@ -534,8 +513,8 @@ These signatories come from the civil society, academia and the private sector, 
 - Denys  Hvozdetskyi
 - Alexander Sheiko
 - Bodnar Valentina
-- Danylo  Rudyk
-- Mariana  Klochko
+- Danylo Rudyk
+- Mariana Klochko
 - Nataliya Sputay
 - Olga Radchenko
 - Yevhen Kovaliuk
@@ -548,7 +527,6 @@ These signatories come from the civil society, academia and the private sector, 
 - Margarita  Karpenko
 - Mykhailo  Dykun
 - Lia Livek
-- Denys Kulahin
 - Nataliia Yakimova
 - Stanislav Cherviakov
 - Kris Voitova
@@ -562,7 +540,6 @@ These signatories come from the civil society, academia and the private sector, 
 - Maryna Rozhdestvenska
 - Sergii Liashenko
 - Volodymyr Renom
-- Tetiana Bortnyk
 - Liubomyr Protsak
 - Olena  Lytvynenko
 - Oleksandr Gashenko
@@ -579,7 +556,7 @@ These signatories come from the civil society, academia and the private sector, 
 - Vladyslav Berezhnyi
 - Viktoria Golovanchuk
 - Roman Kovalenko
-- Klimenkova Oleksandra
+- Oleksandra Klimenkova 
 - Yuri Kovalchuk
 - Yuliia Prysiazhniuk
 - Veronika  Boiko
@@ -590,30 +567,26 @@ These signatories come from the civil society, academia and the private sector, 
 - Yurii Kryvyi
 - Serhii Petrukha
 - Andrii Khlivinyi
-- Дмитро Корчев
+- Dmytro Korchev
 - Alex  Demidenko
 - Oleksandra Leshchyshyn
 - Ivan Kisilevych
 - Oleksandra Lysenko
 - Volodymyr Nechai
 - Igor Sakhar
-- Ivanets Alina
+- Alina Ivanets
 - Andriy Kuvshynov
 - Mari Nikabadze
-- Vitaly Vitaly
 - Andrii Hlukhov
 - Andrii Klimenkov
 - Bohdan Pshenychnyi
 - Oleg Andreiev
-- Alla  Sanduliak
 - Artem Kobrin
 - Olena Serba
 - Anna  Mikulitskaya
-- Oleksandr Hutsol
 - Heorhii Odarchenko
 - Evgen Karpenko
 - Vera Veli
-- Oleksandr  Ishchenko
 - Oksana  Pukhta
 - Andrii  Nikitin
 - Oksana  Cherednichenko
@@ -646,16 +619,14 @@ These signatories come from the civil society, academia and the private sector, 
 - Tetiana Bohach
 - Yurii Stepaniuk
 - Tatyana Shamayeva
-- Lesia Fedorak
 - Sofiia  Nakutna
 - Lyubov Zelinska
-- Denys  Vorobiov
+- Denys Vorobiov
 - Yuliya Kravchuk
 - Iryna Petrova
-- Svezhenceva  Yevgenia
+- Yevgenia Svezhenceva
 - Valentyna Valchyshena
 - Yeva Yanichko
-- Serhii Soltyk
 - Ievhen Petryk
 - Galyna Zagorodniuk
 - Tetiana Levandovska
@@ -683,7 +654,7 @@ These signatories come from the civil society, academia and the private sector, 
 - Anastasiia Plachkova
 - Oleg Vysotskyy
 - Roman Keliukh
-- Олександр Мельник
+- Oleksandr Melnyk
 - Anastasiia Plachkova
 - Serhii Kostiuk
 - Valeriya Bartovshchuk
@@ -697,8 +668,7 @@ These signatories come from the civil society, academia and the private sector, 
 - Volodymyr  Ryskalchuk
 - Solomiia Shypka
 - Nataliia  Kirilenko
-- Tamara Zakrevska
-- Arkhipova Elena
+- Elena Arkhipova
 - Oksana  Burburska
 - Olha Palamarchuk
 - Elena  Nesterenko
@@ -706,7 +676,6 @@ These signatories come from the civil society, academia and the private sector, 
 - Vitalii Rysin
 - Tetiana Talalaiko
 - Ihor Prykhodko
-- Viktor  Maslov
 - Tatyana Kononova
 - Olga Kuzminska
 - Maria Bohdan
@@ -715,21 +684,16 @@ These signatories come from the civil society, academia and the private sector, 
 - Oleksandr Baklan
 - Serhiy Stefanskyy
 - Galyna  Synelnykova
-- Anna Protsenko
 - Svyatoslav  Levytskyy
 - Anna Protsenko
-- Anastasia Krasun
 - Marianna Pichuhina
-- Oleksandr Yuryev
 - Mytia Svoiak
 - Sergii Korniychenko
 - Alex Petrov
-- Vasyl Hudz
 - Yuliya  Shamych
 - Olena Yevlakh
 - Oleksii Hubarenko
 - Denys Saganenko
-- Serhii Kovtun
 - Andrii Susidka
 - Roman Romanchenko
 - Nataliia Baldych
@@ -741,7 +705,6 @@ These signatories come from the civil society, academia and the private sector, 
 - Michael Vergunenko
 - Olena  Mykhalchenko
 - Jyriy Doroshenko
-- Yurii  Khyt
 - Viktoriia Vaskivska
 - Ella Gatsenko
 - Tetiana Pysariuha
@@ -770,7 +733,6 @@ These signatories come from the civil society, academia and the private sector, 
 - Inna Shcheblykina
 - Oksana Shkrobut
 - Nataliia Aganasieva
-- Oksana Oliinyk
 - Olena Pidhaietska
 - Olexii Kovalov
 - Olena  Korzhuk
@@ -781,35 +743,28 @@ These signatories come from the civil society, academia and the private sector, 
 - Anastasiia Naumenko
 - Oksana Tykholaz
 - Oksana  Davydovych
-- Andriy Potapenko
 - Alina Labunska
 - Yuliya Lepiakhova
 - Ivan Levkivskyy
-- Tetyana Budnichenko
 - Oleg Didichenko
 - Illia  Torutko
 - Olga Sviridovscaia
 - Olena  Fomenko
-- Oksana Polna
 - Vlad Petrenko
 - Svitlana Davydenko
 - Maria Sushko
 - Tetyana Saltykova
-- Natalia  Haladym
 - Mykhailo Dmytrenko
 - Vitalina Kutsyba
 - Inna Zakharova
-- Valeriia Zhukova
 - Roman Yuras
 - Borys Kalachynsky
-- Volodymyr Usikov
 - Andrii Bakunivskyi
 - Oleksandr Kuzminskiy
 - Olesia Fitsa
 - Oleksander Ohrodnichy
 - Kseniya Izmailova
 - Oleksii Herashchenko
-- Lidia Faryna
 - Aleksey Krasyuk
 - Ivan Melehanych
 - Ruslan Aminov
@@ -825,7 +780,6 @@ These signatories come from the civil society, academia and the private sector, 
 - Kateryna Tsyhanenko
 - Natalie  Vliazlo
 - Galyna Kotyc
-- Aleksandr Hanzenko
 - Iurii Shukevych
 - Iryna Revak
 - Serhii Rohoznyi
@@ -839,15 +793,12 @@ These signatories come from the civil society, academia and the private sector, 
 - Katy Magula
 - Serhiy Voitovych
 - Natalia  Krasna
-- Nadiia Stefaniv
 - Anna Kholkina
-- Yurii Kharkevych
 - Rostyslav Roitman
 - Timofey Belenko
 - Alla Fedisenko
 - Olesia Marenych
-- Iryna Shuliak
-- Наталія Шевченко
+- Natalia Shevchenko
 - Olena Diriavka
 - Yuriy  Puliugin
 - Tymur Khamzin
@@ -856,7 +807,6 @@ These signatories come from the civil society, academia and the private sector, 
 - Olena  Leshchenko
 - Yana  Ponomarenko
 - Olena Ivanova-Rajska
-- Vitalii Kriutchenko
 - Viktoriia Ieromina
 - Andrii Safronov
 - Yaroslav Korniienko
@@ -882,7 +832,7 @@ These signatories come from the civil society, academia and the private sector, 
 - Igor Glynianyi
 - Alla Riaboshapko
 - Natalia Stasiv
-- Mykhailo Viktoriya
+- Viktoriya Mykhailo 
 - Oleksandr  Boiko
 - Volodymyr Lytoshenko
 - Roman Kovalchuk
@@ -897,7 +847,6 @@ These signatories come from the civil society, academia and the private sector, 
 - Iuliia  Verbova
 - Nataliia Salova
 - Liudmyla Burachkova
-- Igor Lipsky
 - Viktor  Pleskun
 - Nataliia Perekrestova
 - Tetiana Saponenko
@@ -907,16 +856,13 @@ These signatories come from the civil society, academia and the private sector, 
 - Iryna Luchytska
 - Anna Povazhna
 - Liliia Bakalo
-- Jane Jee
 - Pavlo Bassak
 - Yuliia  Romanenko
 - Yevhen Mukhin
 - Nadiia Filiak
-- Natalia  Bilyk
 - Oleksandr Mishchenko
-- Evgeniy Diryavka Evgeniy
+- Evgeniy Diryavka
 - Liliia  Vasylenko
-- Kateryna Kotelva
 - Hanna Melnikova
 - Dmytro Pylypchuk
 - Oksana Berezova
@@ -936,19 +882,17 @@ These signatories come from the civil society, academia and the private sector, 
 - Nadiia  Dumenko
 - Liliya Grin
 - Olga Arkhypova
-- Arkadiy  Bushchenko
 - Vitaliy  Gerasymov
 - Valeria Tsarenko
 - Tetyana Protsyuk
 - Victoria Rohozna
-- Kateryna Sliusareva
 - Kateryna  Lebid
 - Liudmyla Khomenko
 - Ann Lipkovska
-- Tamara  Bushchenko
+- Tamara Bushchenko
 - Sofiia Krysanova
 - Victoria Borsukovska
-- Ivakh Serhii
+- Serhii Ivakh
 - Olga Shevchenko
 - Ksenia Kostenko
 - Olena Mikhaliichuk
@@ -956,7 +900,6 @@ These signatories come from the civil society, academia and the private sector, 
 - Vitalii Ivakhno
 - Svitlana Dovhaniuk
 - Оlena Gruzina
-- Kateryna Dotsenko
 - Inna Sirenko
 - Yuliia Koriaka
 - Andrii  Penskoi
@@ -976,7 +919,7 @@ These signatories come from the civil society, academia and the private sector, 
 - Olexandr Smoliakov
 - Yurii Chuchuk
 - Yaroslav Herasymenko
-- Dubova Vitalina
+- Vitalina Dubova 
 - Viktoria Sudenko
 - Kateryna Kalustova
 - Yurii Honcharov
@@ -987,8 +930,7 @@ These signatories come from the civil society, academia and the private sector, 
 - Tetiana Lypchey
 - Mariia Sladkykh
 - Vitaliy  Momryk
-- Gerga Maryna
-- Natalia Besarab
+- Maryna Gerga 
 - Liliia Nebuvailo
 - Roksolana Vasylkiv
 - Anna Tsipkailo
@@ -1011,7 +953,7 @@ These signatories come from the civil society, academia and the private sector, 
 - Inna Stroganova
 - Oleksandr Shelelo
 - Tetiana Liatambur
-- Ірина Ніколенко
+- Iryna Nikolenko
 - Olena Vitrak
 - Natalia Rubets
 - Ludmila Lytvin
@@ -1033,10 +975,9 @@ These signatories come from the civil society, academia and the private sector, 
 - Tetiana Bondarenko
 - Valerii Patsulia
 - Alina Alieshko
-- Volodymer Davydiuk
 - Olha Behun
 - Olena Muliar
-- Борисенко Наталья
+- Natalia Borysenko
 - Victoria Vasilenko
 - Natalia Diachenko
 - Natalia Venzhyk
@@ -1053,7 +994,6 @@ These signatories come from the civil society, academia and the private sector, 
 - Mykhaylo Zadorozhniy
 - Julia  Savchik
 - Kseniia Glinska
-- Liudmyla  Mozghova
 - Viktoriia  Rolik
 - Oksana  Lutsyk
 - Yaroslav Yurtsaba
@@ -1062,16 +1002,13 @@ These signatories come from the civil society, academia and the private sector, 
 - Olena Arkhypova
 - Zhanna Popova
 - Viktor Berezhnyi
-- Olha Stepenko
 - Olga Ozered
 - Diana Liptuga
 - Natia Japaridze
 - Andrii Petrykov
 - Oleksandra Pavlova
-- Olha Stepenko
 - Larysa Stohnii
 - Ihor Vysochyn
-- Natia Japaridze
 - Olexander Martinenko
 - Tamara Vysochanska
 - Andrii Petrykov 
