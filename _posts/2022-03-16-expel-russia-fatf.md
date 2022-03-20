@@ -77,17 +77,23 @@ At the end of March, the petition will be sent to the FATF along with the names 
 
 #### International experts who signed the petition
 
-- Maarten Groothuizen, Netherlands Prosecution Service;
+- Natalie Jaresko, Minister of Finance of Ukraine (2014-2016);
+- Maarten Groothuizen, The Netherlands Prosecution Service;
 - Alexandre Taymans, expert on Beneficial Ownership, Belgium;
 - Ian Richardson, retired British prosecutor, United Kingdom;
-- Samantha Sheen, Canada;
+- Samantha Sheen, anti-financial crime and legal advisory expert, Canada;
 - Timothy Ash, economist, United Kingdom;
+- Johan van der Vlist, international financial advisor, The Netherlands;
+- John Cubbon, member of Guernica 37 International Justice Chambers, UK;
+- Matthew Caruana Galizia, the Daphne Caruana Galizia Foundation, Malta;
 - Stephen Staten, former law enforcement analyst, United States;
 - Francesca Signorio, trained FATF assessor, Italy;
 - Aiste Urbanaviciute, Danske Bank, Lithuania;
+- Peter Jones, AML expert, United Kingdom;
+- Jeff Kaye, Tax Justice Network, United Kingdom;
+- Katarina Grbesa, rule of law & human rights expert, Croatia;
 - Mihaita Barbutu, Romanian Police;
 - Anders Ahlqvist, Swedish National Police;
-- Katarina Grbesa, rule of law & human rights expert, Croatia;
 - Charlie Greer, AML expert, United Kingdom;
 - Garvan Corkery, Bar of Ireland;
 - Raul Junco, Guardia Civil, Spain;
