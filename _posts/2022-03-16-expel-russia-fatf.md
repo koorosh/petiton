@@ -78,6 +78,7 @@ At the end of March, the petition will be sent to the FATF along with the names 
 #### International experts who signed the petition
 
 - Maarten Groothuizen, Netherlands Prosecution Service;
+- Alexandre Taymans, expert on Beneficial Ownership, Belgium;
 - Ian Richardson, retired British prosecutor, United Kingdom;
 - Samantha Sheen, Canada;
 - Stephen Staten, former Law Enforcement Analyst, United States;
@@ -117,7 +118,6 @@ These signatories come from the civil society, academia and the private sector, 
 - Igor Bereza, consultant in AML/CFT
 - Maksym Oshchepkov, European Union Advisory Mission to Ukraine
 - Yuliia Dmytrenko, ING, The Netherlands
-- Alexandre Taymans
 - Cosima Lust
 - Jon Steiger
 - Debra Konieczko
