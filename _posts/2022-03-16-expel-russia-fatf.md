@@ -58,9 +58,9 @@ We, the undersigned, hereby call for:
 
 2. **The FATF Plenary**: to immediately **suspend the Russian Federation’s membership** at FATF, and if Russia’s war of aggression against Ukraine continues, to **proceed with the expulsion of the Russian Federation from the FATF membership** as guided by para 20 (e) of the FATF Mandate.
 
-3. **The FATF President**: to address the FATF-style regional bodies to terminate Russia’s membership (the Eurasian Group, MONEYVAL) and the observer status (Asia/Pacific group on Money Laundering, Middle East and North Africa Financial Action Task Force).
+3. **The FATF President**: to address the FATF-style regional bodies to terminate Russia’s membership (the Eurasian Group) and the observer status (Asia/Pacific group on Money Laundering, Middle East and North Africa Financial Action Task Force).
 
-4. **The FATF Plenary**: add the Russian Federation to the list of High-Risk Jurisdictions subject to a Call for Action and to communicate this decision publicly.
+4. **The FATF Plenary**: to add the Russian Federation to the list of High-Risk Jurisdictions subject to a Call for Action and to communicate this decision publicly.
 
 ### Organizational details
 
@@ -75,7 +75,7 @@ This list of signatories will be updated on a regular basis, as additional peopl
 
 At the end of March, the petition will be sent to the FATF along with the names of the signatories.
 
-#### International experts who signed the petition
+### International experts who signed the petition
 
 - Natalie Jaresko, Minister of Finance of Ukraine (2014-2016);
 - Maarten Groothuizen, The Netherlands Prosecution Service;
@@ -111,7 +111,15 @@ At the end of March, the petition will be sent to the FATF along with the names 
 - Ravinder Pal Singh, India, formerly at SIPRI.
 
 
-#### Signatories from Ukrainian governmental institutions
+
+### Sign the petition below
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeS9amzXRbYW4Cctm11tLIYL6jivonDCAnU8DOoqC_q0QuHAQ/viewform?embedded=true" width="100%" height="1185" frameborder="0" marginheight="0" marginwidth="0">
+Loading…</iframe>
+
+
+
+### Signatories from Ukrainian governmental institutions
 
 - Yaroslav Yurchyshyn, member of Parliament of Ukraine (Verkhovna Rada);
 - Alona Verner, lawyer at Parliament of Ukraine (Verkhovna Rada);
@@ -126,12 +134,8 @@ At the end of March, the petition will be sent to the FATF along with the names 
 - Volodymyr Vasylchuk, Vasyl Hudz, Valeriia Zhukova, Volodymyr Usikov, Yurii Kharkevych, Vitalii Kriutchenko, Kateryna Dotsenko, Ganna Gorbenko, Denys Giulmagomedov - National Anti-Corruption Bureau of Ukraine.
 
 
-### Sign the petition below
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeS9amzXRbYW4Cctm11tLIYL6jivonDCAnU8DOoqC_q0QuHAQ/viewform?embedded=true" width="100%" height="1185" frameborder="0" marginheight="0" marginwidth="0">
-Loading…</iframe>
-
-#### Signatories from stakeholders and members of the public
+### Signatories from stakeholders and members of the public
 
 These signatories come from the civil society, academia and the private sector, both in Ukraine and in other countries. Many of the signatories below are finance and legal professionals in Ukraine.
 
