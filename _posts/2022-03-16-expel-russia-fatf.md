@@ -165,6 +165,7 @@ Loading…</iframe>
 
 
 
+
 ### Signatories from stakeholders and members of the public
 
 These signatories come from the civil society, academia and the private sector, both in Ukraine and in other countries. Many of the signatories below are finance and legal professionals in Ukraine.
