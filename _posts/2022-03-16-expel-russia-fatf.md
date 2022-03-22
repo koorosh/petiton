@@ -86,13 +86,14 @@ At the end of March, the petition will be sent to the FATF along with the names 
 - Anders Åslund, economist, United States;
 - Johan van der Vlist, international financial advisor, The Netherlands;
 - Ian Bond, Foreign policy analyst and former diplomat, United Kingdom;
-- Maria Shagina, Finnish Institute of International Affairs, Finland;
+- Marina Ismaila, Senior Public Sector Banker, Latvia;
 - John Cubbon, member of Guernica 37 International Justice Chambers, UK;
 - Dr Manfredas Limantas, Rule of Law Sector Manager, Delegation of the European Union to Ukraine;
 - Lynn Sheehan, solicitor, rule of law advisor in EU missions, Ireland;
 - Peter Stafverfeldt, Swedish National Courts Administration, Sweden;
 - Matthew Caruana Galizia, the Daphne Caruana Galizia Foundation, Malta;
-- Garvan Corkery, Bar of Ireland;
+- Garvan Corkery, barrister, Bar of Ireland;
+- Charlotte Leslie, Conservative Middle East Council, United Kingdom;
 - Jane Jee, International Compliance Association fellow, United Kingdom;
 - Sheila Lorance, Marion County Sheriff’s Office Commander (retired), US;
 - Stephen Staten, former law enforcement analyst, United States;
@@ -100,24 +101,42 @@ At the end of March, the petition will be sent to the FATF along with the names 
 - Aiste Urbanaviciute, Danske Bank, Lithuania;
 - Alina Slyusarchuk, Head of CEEMEA Economics, United Kingdom;
 - Evghenia Sleptsova, Oxford Economics, United Kingdom;
+- Maria Shagina, Finnish Institute of International Affairs, Finland;
+- Charles Bunker, author and chartered accountant, United Kingdom;
 - Peter Jones, AML expert, United Kingdom;
 - Charlie Greer, AML expert, United Kingdom;
-- Daniils Bokta, AML Analyst, Latvia;
+- Daniils Bokta, AML analyst, Latvia;
 - Jennifer Warford, American Bar Association, Texas Bar Association, US;
 - Kateryna Mari, Senior Compliance Officer, France;
-- Jeff Kaye, Tax Justice Network, United Kingdom;
+- Jeff Kaye, senior advisor, Tax Justice Network, United Kingdom;
+- Tinatin Nihua, anti-corruption expert, United Kingdom;
 - Heidi Rosamund, Money-laundering Reporting Officer, Guernsey;
+- Julie James, MLRO at an international bank, United Kingdom;
+- Jasper Morgan, financial professional with the private bank, United Kingdom;
+- Brad Meikle, senior managing director in private bank, United States;
 - Anna Kostiw-Obst, Deloitte, Germany;
+- Ilya Gutlin, senior executive, CICA, Canada;
+- Steen Schledermann, expert on digitalisation, Denmark;
 - Igor Bereza, consultant in AML/CFT;
+- Andrii Danchak, Corporate and Retail banking advsisory, Estonia;
+- Danny Santo, compliance manager and MLRO, Tandem Bank, United Kingdom;
+- Christian Rogan, AML/IT security professional, United Kingdom;
 - Katarina Grbesa, rule of law & human rights expert, Croatia;
+- Nino Gordeladze, Institute of Chartered Accountants in Australia and New Zealand;
+- Oleksandr Tseitelman, financial expert, Estonia;
 - Mihaita Barbutu, Romanian Police;
 - Anders Ahlqvist, Swedish National Police;
 - Raul Junco, Guardia Civil, Spain;
 - Slawomir Mirkowski, Polish Chamber of Statutory Auditors;
 - Anton Moiseienko, Australian National University;
+- Lee Byrne, Great Chatwell Academy of Learning, United Kingdom;
 - Todor Tagarev, Bulgarian Academy of Sciences, Bulgaria;
-- Ravinder Pal Singh, India, formerly at SIPRI.
-
+- Ravinder Pal Singh, India, formerly at SIPRI;
+- Irina Patsui, banking, Austria;
+- Simon Mackay, managing director, United Kingdom;
+- Rumyana Chervenkova, managing editor in business media group, Bulgaria;
+- Rizal Darma Putra, Executive Director at Indonesian Institute for Strategic and Defense Studies, Indonesia;
+- Dr. Tamara Krawchenko, Assistant Professor, University of Victoria, Canada.
 
 
 ### Sign the petition below
