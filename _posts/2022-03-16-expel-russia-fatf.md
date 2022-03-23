@@ -78,6 +78,7 @@ At the end of March, the petition will be sent to the FATF along with the names 
 ### International experts who signed the petition
 
 - Natalie Jaresko, Minister of Finance of Ukraine (2014-2016);
+- Valeria Gontareva, Governor of National Bank of Ukraine (2014 - 2018), London School of Economics;
 - Maarten Groothuizen, The Netherlands Prosecution Service;
 - Alexandre Taymans, expert on Beneficial Ownership, Belgium;
 - Samantha Sheen, anti-financial crime and legal advisory expert, Canada;
@@ -85,12 +86,15 @@ At the end of March, the petition will be sent to the FATF along with the names 
 - Anders Åslund, economist, United States;
 - Johan van der Vlist, international financial advisor, The Netherlands;
 - Ian Bond, Foreign policy analyst and former diplomat, United Kingdom;
+- Pieter Feith, former diplomat of the Netherlands;
 - Marina Ismaila, Senior Public Sector Banker, Latvia;
 - John Cubbon, member of Guernica 37 International Justice Chambers, UK;
+- Larry Taman, senior international Advisor on Rule of Law, Canada;
 - Ian Richardson, retired British prosecutor, United Kingdom;
 - Bohdan Vitvitsky, retired Federal Prosecutor, United States;
 - Dr Manfredas Limantas, Rule of Law Sector Manager, Delegation of the European Union to Ukraine;
 - Lynn Sheehan, solicitor, rule of law advisor in EU missions, Ireland;
+- Sven Marius Urke, Director of the Court Administration, Norway;
 - Peter Stafverfeldt, Swedish National Courts Administration, Sweden;
 - Matthew Caruana Galizia, the Daphne Caruana Galizia Foundation, Malta;
 - Paulius Klikunas, Lithuanian Police, Lithuania;
@@ -158,7 +162,55 @@ At the end of March, the petition will be sent to the FATF along with the names 
 - Stephen Butler, Strategy Council, United Kingdom;
 - John Gaynard, World Bank retiree, France/Ireland;
 - Rizal Darma Putra, Executive Director at Indonesian Institute for Strategic and Defense Studies, Indonesia;
-- Dr. Tamara Krawchenko, Assistant Professor, University of Victoria, Canada.
+- Dr. Tamara Krawchenko, Assistant Professor, University of Victoria, Canada;
+- Phillip Gee, expert on finance and accounting, Canada
+- Robert Biondolillo, retired law enforcement professional, United States;
+- Marceli K. Krol, Doctor of Economics, Poland;
+- Kevin Keen, consultant, Jersey;
+- Asa Linder, financial professional, Sweden;
+- Heidi Dubin, consultant, United States;
+- Patricia Vroom, senior attorney and executive, United States;
+- Pendrick Brown, private investor, United Kingdom;
+- Rita Svediene, auditing professional, Lithuania;
+- Denis Blank, investment officer, United Kingdom;
+- Virginia Patterson, attorney, United States;
+- Carol Humiston, attorney, United States;
+- Peter Hey, compliance and risk management, United Kingdom;
+- Charles Humphrey, attorney, United States;
+- Per Westin, change management, Sweden;
+- John Meekison, financier, Canada;
+- Richard Simonson, executive, United States;
+- Sean O'Brien, law enforcement professional, Canada;
+- Adolf Kohnhorst, executive, Netherlands;
+- Steve Gavey, banker, Jersey;
+- Katrin Nyman Metcalf, professor, consultant, Estonia;
+- Mindaugas Caplinskas, entrepreneur, Lithuania;
+- Guido Oestreich, justice expert, Germany;
+- Niall Canny, banking professional, Ireland;
+- Christian Thalacker, AML specialist, Luxemburg;
+- Rostyslav Futalo, digital transformation, banking and fintech specialist, Austria;
+- Piotr Bogumil, economist, Poland;
+- Liudmyla Lemrini, Swedish-Ukrainian Chamber of Commerce, Sweden;
+- Roman Kachur, alternate executive director, United States;
+- Vladimír Ježek, payments services and operations, Czech Republic;
+- Kerk Hilton, capital markets, Canada;
+- Alexander Lotocki, executive, United States;
+- Mark FeDuke, risk management and regulatory affairs, Canada;
+- Guy-Christian Agbor, independent researcher, United States;
+- Andrew Kinsel, due diligence, United States;
+- David Reynolds, financial services and consultancy, Ireland;
+- Heiko Wild, law enforcement professional, Germany;
+- Detlev Quigley, retired law enforcement professional, United Kingdom;
+- Lasha Tsomaia, law enforcement professional, Georgia;
+- Antonio Barcelona Zotano, banking professional, Spain;
+- Jerry Olynuk, investment expert, Canada;
+- Tomasz Guta, lawyer, consultant, researcher, Germany/Poland;
+- Andy Crossley, United Kingdom;
+- Sophia McDougall, writer, United Kingdom;
+- Anne Brataas, writer, United States;
+- Stefan Tymkewycz, retired Scottish National Party Councillor, United Kingdom;
+- Nicolas Brousse, Adobe.
+
 
 
 ### Sign the petition below
@@ -173,6 +225,7 @@ Loading…</iframe>
 - Yaroslav Yurchyshyn, member of Parliament of Ukraine (Verkhovna Rada);
 - Alona Verner, lawyer at Parliament of Ukraine (Verkhovna Rada);
 - Denis Ulyutin, Denys Khokhlov, Nataliia Osadcha, Violetta Apanasenko, Liudmila Palamar, Ruslan Baranov, Oksana Venchak, Anton Kolieinikov, Olena Ponomarenko, Liudmyla Mozghova, Oleksandr Sapronov, Maryna Voloshchenko, Yuriy Konyushenko, Serhii  Avramchuk, Nadiia  Onyshchenko, Larysa  Maksymenko, Serhii  Burlaka, Victoriia  Khomenko, Volodymyr  Cherkach, Andrii  Savenko, Alla  Koval, Volodymyr  Lutak, Nataliia  Platonova, Tatiana Malakhova, Dmytro Sydorenko, Anna Lypska, Oleksandr Chubukov, Alla Solomchak, Nadiia Semerenko - Ministry of Finance of Ukraine;
+- Viktor Pynzenyk, Minister of Finance of Ukraine (2005-2009);
 - Iryna Priazhentseva, Nataliia Antonenko, Roman Kozlov, Andrii Derhun, Serhii Soltyk, Ihor Prykhodko, Ivan Levkivskyy, Yuri Kod, Anzhela Melnyk, Denys Kulahin, Natalia Haladym, Oksana Shkrobotko, Olga Bezpamiatnykh - National Bank of Ukraine;
 - Igor Gaievskyi, Oleksandr Hlushchenko, Liudmyla Ponomarenko, Andriy Synenko, Dmytro Reznichenko, Roman Matiukhov, Anatolii Movchun, Inga Khabenko, Nataliia Maksymiuk, Sergiy Andryushechkin, Iryna Shuliak, Lesia Lesyk, Serhii Starcheskyi, Yana Ovsiannikova, Hanna Zelinska, Volodymer Davydiuk, Olha Stepenko, Yurii Yeremenko, Anastasiia Bezuhla, Mariia Radchenko, Maksym Vasiuk, Lyibov Pidhorodetska, Igor Lipsky, Valerii Pyliai, Vadym Makarevych, Iryna Peliukh, Nataliia Stepovyk - State Financial Monitoring Service of Ukraine (Financial Intelligence Unit of Ukraine);
 - Olha Osinska, Kristina Havryliuk, Tetiana Bortnyk - Ministry of Digital Transformation of Ukraine;
