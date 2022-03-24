@@ -163,7 +163,8 @@ At the end of March, the petition will be sent to the FATF along with the names 
 - John Gaynard, World Bank retiree, France/Ireland;
 - Rizal Darma Putra, Executive Director at Indonesian Institute for Strategic and Defense Studies, Indonesia;
 - Dr. Tamara Krawchenko, Assistant Professor, University of Victoria, Canada;
-- Phillip Gee, expert on finance and accounting, Canada
+- Phillip Gee, expert on finance and accounting, Canada;
+- Maria Saccomanni, international tax manager, Italy;
 - Robert Biondolillo, retired law enforcement professional, United States;
 - Marceli K. Krol, Doctor of Economics, Poland;
 - Kevin Keen, consultant, Jersey;
@@ -205,6 +206,8 @@ At the end of March, the petition will be sent to the FATF along with the names 
 - Antonio Barcelona Zotano, banking professional, Spain;
 - Jerry Olynuk, investment expert, Canada;
 - Tomasz Guta, lawyer, consultant, researcher, Germany/Poland;
+- Hugh Willan, Diligence LLP, United Kingdom;
+- Simon Remillard, business owner, Canada;
 - Andy Crossley, United Kingdom;
 - Sophia McDougall, writer, United Kingdom;
 - Anne Brataas, writer, United States;
