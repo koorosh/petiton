@@ -83,9 +83,12 @@ At the end of March, the petition will be sent to the FATF along with the names 
 - Maarten Groothuizen, The Netherlands Prosecution Service;
 - Alexandre Taymans, expert on Beneficial Ownership, Belgium;
 - Samantha Sheen, anti-financial crime and legal advisory expert, Canada;
+- Antonio Luca Riso, European Central Bank, Italy;
 - Timothy Ash, economist, United Kingdom;
 - Anders Åslund, economist, United States;
+- Clemens Mueller, European Commission, Germany;
 - Johan van der Vlist, international financial advisor, The Netherlands;
+- Andrew Bartlett, international consultant on financial investigation and asset recovery, France;
 - Ian Bond, Foreign policy analyst and former diplomat, United Kingdom;
 - Pieter Feith, former diplomat of the Netherlands;
 - Marina Ismaila, Senior Public Sector Banker, Latvia;
@@ -105,6 +108,7 @@ At the end of March, the petition will be sent to the FATF along with the names 
 - Orysia Lutsevych, Chatham House, United Kingdom;
 - Charlotte Leslie, Conservative Middle East Council, United Kingdom;
 - Jane Jee, International Compliance Association fellow, United Kingdom;
+- Robert Homans, international financial services consultant, United States;
 - Sheila Lorance, Marion County Sheriff’s Office Commander (retired), US;
 - Stephen Staten, former law enforcement analyst, United States;
 - Francesca Signorio, trained FATF assessor, Italy;
@@ -120,6 +124,8 @@ At the end of March, the petition will be sent to the FATF along with the names 
 - Jennifer Warford, American Bar Association, Texas Bar Association, US;
 - Kateryna Mari, Senior Compliance Officer, France;
 - Jeff Kaye, senior advisor, Tax Justice Network, United Kingdom;
+- Tim Ballas, executive, United States;
+- Stig Petersen, consulting, Denmark;
 - Tinatin Nihua, anti-corruption expert, United Kingdom;
 - Heidi Rosamund, Money-laundering Reporting Officer, Guernsey;
 - Julie James, MLRO at an international bank, United Kingdom;
@@ -131,11 +137,13 @@ At the end of March, the petition will be sent to the FATF along with the names 
 - Igor Bereza, consultant in AML/CFT;
 - Barry Kaplan, Maple Tree Capital, United States;
 - Stuart Hammond, Financial Crime officer, United Kingdom;
+- Anna Maslennikova, anti-money laundering and risk professional, United Kingdom;
 - Andrii Danchak, Corporate and Retail banking advsisory, Estonia;
 - Danny Santo, compliance manager and MLRO, Tandem Bank, United Kingdom;
 - Christian Rogan, AML/IT security professional, United Kingdom;
 - Hristo Sevov, anti-money laundering expert / compliance officer, Bulgaria;
 - Katarina Grbesa, rule of law & human rights expert, Croatia;
+- Minh Ngo, human rights expert, United States;
 - Nikolaus Walch, Rotary International, Canada;
 - Nino Gordeladze, Institute of Chartered Accountants in Australia and New Zealand;
 - Oleksandr Tseitelman, financial expert, Estonia;
@@ -143,10 +151,12 @@ At the end of March, the petition will be sent to the FATF along with the names 
 - Anders Ahlqvist, Swedish National Police;
 - Raul Junco, Guardia Civil, Spain;
 - Andrea Scella, professor of criminal procedure, Università degli Studi di Udine, Italy;
+- Dace Helmane, executive, Latvia;
 - Slawomir Mirkowski, Polish Chamber of Statutory Auditors, Poland;
 - Anna Schnitzerova, LexisNexis Risk Solutions, United Kingdom;
 - Elizabeth O’Connell, Law Library, Ireland;
 - Johanna Lund Rockliffe, consultant on sustainability, Sweden;
+- Kateryna Malakhova, German Ukrainian Association, Germany;
 - Khachatur Tsokolakyan, financial literacy expert, Armenia;
 - Anton Moiseienko, Australian National University;
 - Lee Byrne, Great Chatwell Academy of Learning, United Kingdom;
@@ -230,21 +240,21 @@ Loading…</iframe>
 
 ### Signatories from Ukrainian governmental institutions
 
-- Yaroslav Yurchyshyn, member of Parliament of Ukraine (Verkhovna Rada);
-- Alona Verner, lawyer at Parliament of Ukraine (Verkhovna Rada);
-- Denis Ulyutin, Denys Khokhlov, Nataliia Osadcha, Violetta Apanasenko, Liudmila Palamar, Ruslan Baranov, Oksana Venchak, Anton Kolieinikov, Olena Ponomarenko, Liudmyla Mozghova, Oleksandr Sapronov, Maryna Voloshchenko, Yuriy Konyushenko, Serhii  Avramchuk, Nadiia  Onyshchenko, Larysa  Maksymenko, Serhii  Burlaka, Victoriia  Khomenko, Volodymyr  Cherkach, Andrii  Savenko, Alla  Koval, Volodymyr  Lutak, Nataliia  Platonova, Tatiana Malakhova, Dmytro Sydorenko, Anna Lypska, Oleksandr Chubukov, Alla Solomchak, Nadiia Semerenko - Ministry of Finance of Ukraine;
+- **Parliament of Ukraine** (Verkhovna Rada): Yaroslav Yurchyshyn, member of Parliament; Alona Verner, lawyer;
+- **Ministry of Finance of Ukraine**: Denis Ulyutin, Denys Khokhlov, Nataliia Osadcha, Violetta Apanasenko, Liudmila Palamar, Ruslan Baranov, Oksana Venchak, Anton Kolieinikov, Olena Ponomarenko, Liudmyla Mozghova, Oleksandr Sapronov, Maryna Voloshchenko, Yuriy Konyushenko, Serhii  Avramchuk, Nadiia  Onyshchenko, Larysa  Maksymenko, Serhii Burlaka, Victoriia  Khomenko, Volodymyr  Cherkach, Andrii  Savenko, Alla  Koval, Volodymyr Lutak, Nataliia Platonova, Tatiana Malakhova, Dmytro Sydorenko, Anna Lypska, Oleksandr Chubukov, Alla Solomchak, Nadiia Semerenko, Andriy Olefirenko;
 - Viktor Pynzenyk, Minister of Finance of Ukraine (2005-2009);
-- Iryna Priazhentseva, Nataliia Antonenko, Roman Kozlov, Andrii Derhun, Serhii Soltyk, Ihor Prykhodko, Ivan Levkivskyy, Yuri Kod, Anzhela Melnyk, Denys Kulahin, Natalia Haladym, Oksana Shkrobotko, Olga Bezpamiatnykh - National Bank of Ukraine;
-- Igor Gaievskyi, Oleksandr Hlushchenko, Liudmyla Ponomarenko, Andriy Synenko, Dmytro Reznichenko, Roman Matiukhov, Anatolii Movchun, Inga Khabenko, Nataliia Maksymiuk, Sergiy Andryushechkin, Iryna Shuliak, Lesia Lesyk, Serhii Starcheskyi, Yana Ovsiannikova, Hanna Zelinska, Volodymer Davydiuk, Olha Stepenko, Yurii Yeremenko, Anastasiia Bezuhla, Mariia Radchenko, Maksym Vasiuk, Lyibov Pidhorodetska, Igor Lipsky, Valerii Pyliai, Vadym Makarevych, Iryna Peliukh, Nataliia Stepovyk - State Financial Monitoring Service of Ukraine (Financial Intelligence Unit of Ukraine);
-- Olha Osinska, Kristina Havryliuk, Tetiana Bortnyk - Ministry of Digital Transformation of Ukraine;
-- Lilia Petrova, National Securities and Stock Market Commission;
-- Judges Oleh Fedorov, Vira Mykhailenko, Olga Metliaieva, Oleksandr Garskiy, Oleksandra Zhukovska, Lesia Fedorak, Oleksandr Yuryev, Serhii Kovtun, Andriy Potapenko, Lidia Faryna, Nadiia Stefaniv, Tymur Khamzin, Kateryna Kotelva, Arkadiy Bushchenko, Natalia Besarab, Oksana Oliinyk, Viktor Maslov, Natalia Bilyk, Anna Mostetska, Helena Semenyuta, Tetiana Fortuna, Kateryna Sereda, Roman Svitlychnyy, Sergey Pavlinchuk;
-- Natalya Shuklina, Oleksandr Ishchenko, Kateryna Sliusareva, Tetyana Budnichenko, Oksana Polna, Tamara Zakrevska, Iryna Nikolenko, Kateryna Leontovych - National School of Judges of Ukraine;
-- Iryna Didenko, Oleksandr Melnyk, Viktor Mysiak, Yurii Khyt, Aleksandr Hanzenko, Nataliia Dubchak, Alla Sanduliak, Oleksandr Hutsol, Anastasia Krasun, Yuliia Tarasiuk, Olena Parkhomchuk, Olga Hushchesova - Office of the Prosecutor General;
-- Volodymyr Vasylchuk, Vasyl Hudz, Valeriia Zhukova, Volodymyr Usikov, Yurii Kharkevych, Vitalii Kriutchenko, Kateryna Dotsenko, Ganna Gorbenko, Denys Giulmagomedov - National Anti-Corruption Bureau of Ukraine;
-- Iaroslav Liubchenko, Timea Prokopchuk, Maxym Trosteniuk, Andrii Iaichuk, Tetyana Perepelytsia, Nataliia Denysiuk, Snizhana Antipina, Artem Artemenko, Serhii Bodenko, Anatoliy Poplavskiy, Valeriy Kharlamov, Roman Kuritskyi, Oleg Paliy, Valeriy Kalevych, Valeriy Kalevych, Ivan Maschenko, Inna Tikhonova, Angelina Korniienko, Yevgen Semeniuta, Mykhailo Panchenko, Oleksandra Panchenko, Maksym Khavrat - National Agency on Corruption Prevention;
-- Snizhana Danylchuk, Nataliia Sukhodol, Yulia Chumak, Laotsa Tsukanova, Yevhenii Kalenichenko, Volodymyr Rybyanets, Vika Shakhova, Volodymyr Laba, Svetlana Rybyunet, Tetiana Dzetsyna, Nataliia Potapchuk, Oleksandr Vyverets, Yulia Rusalchuk, Natalia Soldatenko, Ihor Drozdyk, Iryna Kuliaka, Oksana Skliarova, Natalia Kavaleva, Halyna Kononchuk, Valentina Gergel, Yuliia Zaraiska, Aleksandr Samoilenko, Lena Cherepinska, Yuliia Rudenko, Sergiy Sidliaryk, Olexandr Kovalchuk, Evgeniya Gorova, Anastasia Nechaieva, Vitalii Chernysh, Tetiana Savicheva, Olena Nosyk, Dmytro Ahieiev, Oleksandr Hnizdylo, Alla Ostapenko, Ihor Matsapura, Olena Shvadchenko, Natalia Sosnovska, Alla Ostapenko, Olesia Bavrovska, Natalia Kalinichenko, Zhanna Smolinska, Mykhailo Bondarenko, Albina Myronenko, Inna Shalar, Irina Markova, Svitlana Chernovol, Maryna Hornetska, Svitlava Brich, Svitlana Broda, Olena Pidduda, Nataliya Kolodiy, Anna Mikhailenko, Bohdana Karp, Svitlana Tomliak, Viktoria Dmytrenko, Liudmyla Sosliuk, Olga Shubin, Inna Sova, Artur Beree, Iryna Syvak, Yuliia Popova, Svitlana Kuz, Gelena Kaminska, Olena Leichenko, Ivan  Doshchynskyi, Viktoriya Dmytrenko, Alyona Lesko, Lyudmila Velichko, Oksana Bielikova, Vita Demianiuk, Liudmyla Vyniatynska, Olga Kravchenko, Yurij Kogaychuk, Alexandr Honcharenko, Tatiana Stepaniuk, Serghiy Kazan, Svetlana Storoguk, Marina Alenyna, Taras Diachuk, Irina Romaniuk, Svitlana Fodorova, Roman Vitvitckiy, Elena Petrunia, Angela Radom, Ayshe Zinalieva, Lidiia Telegina, Oleksandr Poliak, Diana Dinar'yeva, Tamara Stepanenko, Nataliya Tunduk, Svitlana Chernovol - State Audit Service of Ukraine.
-
+- **National Bank of Ukraine**: Iryna Priazhentseva, Nataliia Antonenko, Roman Kozlov, Andrii Derhun, Serhii Soltyk, Ihor Prykhodko, Ivan Levkivskyy, Yuri Kod, Anzhela Melnyk, Denys Kulahin, Natalia Haladym, Oksana Shkrobotko, Olga Bezpamiatnykh, Inna Obushok;
+- **State Financial Monitoring Service of Ukraine** (Financial Intelligence Unit of Ukraine): Igor Gaievskyi, Oleksandr Hlushchenko, Liudmyla Ponomarenko, Andriy Synenko, Dmytro Reznichenko, Roman Matiukhov, Anatolii Movchun, Inga Khabenko, Nataliia Maksymiuk, Sergiy Andryushechkin, Iryna Shuliak, Lesia Lesyk, Serhii Starcheskyi, Yana Ovsiannikova, Hanna Zelinska, Volodymer Davydiuk, Olha Stepenko, Yurii Yeremenko, Anastasiia Bezuhla, Mariia Radchenko, Maksym Vasiuk, Lyibov Pidhorodetska, Igor Lipsky, Valerii Pyliai, Vadym Makarevych, Iryna Peliukh, Nataliia Stepovyk, Nadiya Aghazada, Liudmyla Alieinik, Sergiy Andriusnechkin, Oleksandr Antonych, Roman Babushko, Oleh Belisov, Sofia Belisova, Vitaliy Berehivskyi, Andriy Biletskyi, Alina Bilyk, Nataliia Boiko, Valentyna Demchuk, Yuliia Demydova, Natalya Diachenko, Sergii Dihtyarenko, Viktoriia Doma, Dmytro Dubovyk, Igor Galchenko, Igor Geraschenko, Oleksii Harnyk, Serhii Havryliuk, Anastasia Huzovska, Anatolii Khomenko, Iryna Khomenko, Anna Khrystych, Vitaliy Khyliuk, Taras Klodzinskyi, Kostyantin Kolyadenko, Maryna Kononenko, Tetyna Korobchuk, Inna Krasovska, Oksana Krempa, Vadym Kryvonos, Tetiana Kulyk, Tetiana Kypychenko, Lesia Lesyk, Alona Lishchynska, Andrii Lukianenko, Valentyna Lutsenko, Viktoriia Lys, Vadym Makarevych, Krystina Maksymenko, Volodymyr Malyshev, Serhii Melnyk, Inna Merhutska, Oksana Mikhailuk, Daria Morozova, Vitalina Moyko, Oksana Mykhailenko, Oksana Mykhailiuk, Vasyl Myrochynskyi, Liliiya Nedilko, Alla Nikitchuk, Maryna Onyshchenko, Andrii Oprysok, Hlib Ovchinnikov, Olha Ovchinnikova, Ganna Panasenko, Inna Patiuta, Yaroslav Pohorilyi, Oksana Polshkova, Oleg Postoyuk, Sergey Prodan, Mariia Radchenko, Dariia Riazanova, Victoria Saman, Volodymyr Savchenko, Maryna Senich, Serhii Shcherbachuk, Kateryna Shuliak, Anna Solod, Galyna Sugira, Andrii Sukhovetskyi, Alona Torba, Oleh Vasko, Viktoriia Verbova, Oleksandr Vodolahin, Ivan Voichuk, Vladyslav Voitenko, Nataliia Voitiuk, Olena Volnytska, Valentyna Vorobei, Alexandra Yakovenko, Andrew Yeroshenko, Olha Zabudska, Aleksandr Zadorozhnii, Oleg Zakharenko, Olha Zelenska, Hanna Zelinska, Victoria Zvariichuk, Andrii Petrusenko, Nelia	Cherednyk, Alla Nikitchuk, Dariia Riazanova, Kristina	Pitiukha-Medvedeva;
+- **Ministry of Digital Transformation of Ukraine**: Olha Osinska, Kristina Havryliuk, Tetiana Bortnyk;
+- **Judges**: Oleh Fedorov, Vira Mykhailenko, Olga Metliaieva, Oleksandr Garskiy, Oleksandra Zhukovska, Lesia Fedorak, Oleksandr Yuryev, Serhii Kovtun, Andriy Potapenko, Lidia Faryna, Nadiia Stefaniv, Tymur Khamzin, Kateryna Kotelva, Arkadiy Bushchenko, Natalia Besarab, Oksana Oliinyk, Viktor Maslov, Natalia Bilyk, Anna Mostetska, Helena Semenyuta, Tetiana Fortuna, Kateryna Sereda, Roman Svitlychnyy, Sergey Pavlinchuk, Sergii	Ukhanenko;
+- **National School of Judges of Ukraine**: Natalya Shuklina, Oleksandr Ishchenko, Kateryna Sliusareva, Tetyana Budnichenko, Oksana Polna, Tamara Zakrevska, Iryna Nikolenko, Kateryna Leontovych;
+- **Office of the Prosecutor General**: Iryna Didenko, Oleksandr Melnyk, Viktor Mysiak, Yurii Khyt, Aleksandr Hanzenko, Nataliia Dubchak, Alla Sanduliak, Oleksandr Hutsol, Anastasia Krasun, Yuliia Tarasiuk, Olena Parkhomchuk, Olga Hushchesova;
+- **National Anti-Corruption Bureau of Ukraine**: Volodymyr Vasylchuk, Vasyl Hudz, Valeriia Zhukova, Volodymyr Usikov, Yurii Kharkevych, Vitalii Kriutchenko, Kateryna Dotsenko, Ganna Gorbenko, Denys Giulmagomedov;
+- **National Agency on Corruption Prevention**: Iaroslav Liubchenko, Timea Prokopchuk, Maxym Trosteniuk, Andrii Iaichuk, Tetyana Perepelytsia, Nataliia Denysiuk, Snizhana Antipina, Artem Artemenko, Serhii Bodenko, Anatoliy Poplavskiy, Valeriy Kharlamov, Roman Kuritskyi, Oleg Paliy, Valeriy Kalevych, Valeriy Kalevych, Ivan Maschenko, Inna Tikhonova, Angelina Korniienko, Yevgen Semeniuta, Mykhailo Panchenko, Oleksandra Panchenko, Maksym Khavrat;
+- **Asset Recovery and Management Agency**: Natalia	Kostynchuk;
+- **National Securities and Stock Market Commission**: Lilia Petrova, Mykola Boichuk;
+- **Secretariat of the Cabinet of Ministers of Ukraine**: Hanna Protsak, Serhii Darkin;
+- **State Audit Service of Ukraine**: Snizhana Danylchuk, Nataliia Sukhodol, Yulia Chumak, Laotsa Tsukanova, Yevhenii Kalenichenko, Volodymyr Rybyanets, Vika Shakhova, Volodymyr Laba, Svetlana Rybyunet, Tetiana Dzetsyna, Nataliia Potapchuk, Oleksandr Vyverets, Yulia Rusalchuk, Natalia Soldatenko, Ihor Drozdyk, Iryna Kuliaka, Oksana Skliarova, Natalia Kavaleva, Halyna Kononchuk, Valentina Gergel, Yuliia Zaraiska, Aleksandr Samoilenko, Lena Cherepinska, Yuliia Rudenko, Sergiy Sidliaryk, Olexandr Kovalchuk, Evgeniya Gorova, Anastasia Nechaieva, Vitalii Chernysh, Tetiana Savicheva, Olena Nosyk, Dmytro Ahieiev, Oleksandr Hnizdylo, Alla Ostapenko, Ihor Matsapura, Olena Shvadchenko, Natalia Sosnovska, Alla Ostapenko, Olesia Bavrovska, Natalia Kalinichenko, Zhanna Smolinska, Mykhailo Bondarenko, Albina Myronenko, Inna Shalar, Irina Markova, Svitlana Chernovol, Maryna Hornetska, Svitlava Brich, Svitlana Broda, Olena Pidduda, Nataliya Kolodiy, Anna Mikhailenko, Bohdana Karp, Svitlana Tomliak, Viktoria Dmytrenko, Liudmyla Sosliuk, Olga Shubin, Inna Sova, Artur Beree, Iryna Syvak, Yuliia Popova, Svitlana Kuz, Gelena Kaminska, Olena Leichenko, Ivan  Doshchynskyi, Viktoriya Dmytrenko, Alyona Lesko, Lyudmila Velichko, Oksana Bielikova, Vita Demianiuk, Liudmyla Vyniatynska, Olga Kravchenko, Yurij Kogaychuk, Alexandr Honcharenko, Tatiana Stepaniuk, Serghiy Kazan, Svetlana Storoguk, Marina Alenyna, Taras Diachuk, Irina Romaniuk, Svitlana Fodorova, Roman Vitvitckiy, Elena Petrunia, Angela Radom, Ayshe Zinalieva, Lidiia Telegina, Oleksandr Poliak, Diana Dinar'yeva, Tamara Stepanenko, Nataliya Tunduk, Svitlana Chernovol; Valentina Petuhova.
 
 
 
