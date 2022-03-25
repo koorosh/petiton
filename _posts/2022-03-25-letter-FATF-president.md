@@ -5,6 +5,8 @@ categories: [letters]
 ---
 
 **Letter to President of the FATF regarding the public petition calling for Russia's exclusion from the FATF**
+Sent on: 25 March 2022
+In the interest of publicity and accountability, the text of the letter is published below.
 
 **From:**
 Mr. Ievgen Vorobiov
