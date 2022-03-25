@@ -66,8 +66,8 @@ We, the undersigned, hereby call for:
 
 This petition has been drafted and circulated by:
 
-- Mr. [Ievgen Vorobiov](https://www.linkedin.com/in/vorobyov/) (LL.M., policy consultant, former expert at the National Bank of Ukraine) and
-- Mr. Sergii Rybchenko (AML/financial crime expert at an international organisation).
+- [Ievgen Vorobiov](https://www.linkedin.com/in/vorobyov/) (LL.M., policy consultant, former expert at the National Bank of Ukraine) and
+- Sergii Rybchenko (Anti-Money Laundering/Financial Crime expert at an international organisation).
 
 The names of petition signatories are listed below, just under the Signature Form.
 
@@ -78,6 +78,7 @@ At the end of March, the petition will be sent to the FATF along with the names 
 ### International experts who signed the petition
 
 - Natalie Jaresko, Minister of Finance of Ukraine (2014-2016);
+- Roman Waschuk, former Ambassador of Canada to Ukraine (2014-2019);
 - Valeria Gontareva, Governor of National Bank of Ukraine (2014 - 2018), London School of Economics;
 - Maarten Groothuizen, The Netherlands Prosecution Service;
 - Alexandre Taymans, expert on Beneficial Ownership, Belgium;
