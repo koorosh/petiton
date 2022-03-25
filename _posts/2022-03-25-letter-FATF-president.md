@@ -15,6 +15,7 @@ Dr. Marcus Pleyer
 President of Financial Action Task Force
 
 Dear Dr. Pleyer,
+
 The civil-society initiative “No Finance for Russia” is deeply concerned that the FATF has so far failed to act on its Public Statement on the Situation in Ukraine (hereinafter: the Statement) as of 4 March 2022. Amid the escalating Russia’s war of aggression against Ukraine and Russia’s systematic violations of international law, the FATF continues to remain a silent bystander and, as many may perceive it, an inadvertent enabler of the Russian Federation’s unprecedented attack on the rule of law.
 
 The Statement pledges that the FATF “will consider all options to help promote the security, safety and the integrity of the global financial system”. We believe that, given the appalling breach of FATF principles by the Russian Federation, the only acceptable option for the FATF would be to terminate Russia’s participation in the FATF’s ongoing activities and to designate a high degree of risk to that jurisdiction. Otherwise, continued inaction by the FATF threatens to lead to the complete loss of public trust in the institution. That is why, on 16 March, we published an open petition to urge the following steps:
