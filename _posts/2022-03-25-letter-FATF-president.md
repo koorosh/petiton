@@ -45,7 +45,7 @@ Given that the President of the FATF acts as the principal spokesperson for the 
 Best regards,
 
 Ievgen Vorobiov (Mr.),
-LL.M. (Leiden University), Advocacy Coordinator at “No Finance for Russia”
+LL.M. (Leiden University), Coordinator at “No Finance for Russia”
 
 Sergii Rybchenko (Mr.),
 Anti-financial crime and Law enforcement expert
