@@ -112,7 +112,7 @@ At the end of March, the petition will be sent to the FATF along with the names 
 - Yangbo Du, Sustainable Development Investment Finance Partnership, US;
 - Alina Slyusarchuk, Head of CEEMEA Economics, United Kingdom;
 - Evghenia Sleptsova, Oxford Economics, United Kingdom;
-- Maria Shagina, Finnish Institute of International Affairs, Finland;
+- Dr. Maria Shagina, Finnish Institute of International Affairs, Finland;
 - Charles Bunker, author and chartered accountant, United Kingdom;
 - Peter Jones, AML expert, United Kingdom;
 - Charlie Greer, AML expert, United Kingdom;
@@ -153,7 +153,7 @@ At the end of March, the petition will be sent to the FATF along with the names 
 - Marco Bettoni, Steinbeis Network, Switzerland;
 - Todor Tagarev, Bulgarian Academy of Sciences, Bulgaria;
 - Ravinder Pal Singh, India, formerly at SIPRI;
-- Victoria-Sophia Khutsishvili, LL.M., M.A., Founder & CEO at "VSK Law" LLC, Georgia;
+- Victoria-Sophia Khutsishvili, Founder & CEO at "VSK Law" LLC, Georgia;
 - Irina Patsui, banking, Austria;
 - Antonina Plakhotniuk, NatWest Markets, United Kingdom;
 - Marcus Brand, International IDEA, Sweden;
@@ -162,7 +162,7 @@ At the end of March, the petition will be sent to the FATF along with the names 
 - Uchkun Abdurakhmanov, Chonnam National University, South Korea;
 - Stephen Butler, Strategy Council, United Kingdom;
 - John Gaynard, World Bank retiree, France/Ireland;
-- Rizal Darma Putra, Executive Director at Indonesian Institute for Strategic and Defense Studies, Indonesia;
+- Rizal Darma Putra, Indonesian Institute for Strategic and Defense Studies;
 - Dr. Tamara Krawchenko, Assistant Professor, University of Victoria, Canada;
 - Phillip Gee, expert on finance and accounting, Canada;
 - Maria Saccomanni, international tax manager, Italy;
@@ -185,7 +185,9 @@ At the end of March, the petition will be sent to the FATF along with the names 
 - Sean O'Brien, law enforcement professional, Canada;
 - Adolf Kohnhorst, executive, Netherlands;
 - Steve Gavey, banker, Jersey;
+- Kateryna Kyrychenko, Citibank, United Arab Emirates;
 - Katrin Nyman Metcalf, professor, consultant, Estonia;
+- Jochen Krause, Valdon/Quant Finance, Germany;
 - Mindaugas Caplinskas, entrepreneur, Lithuania;
 - Guido Oestreich, justice expert, Germany;
 - Niall Canny, banking professional, Ireland;
@@ -206,9 +208,11 @@ At the end of March, the petition will be sent to the FATF along with the names 
 - Lasha Tsomaia, law enforcement professional, Georgia;
 - Antonio Barcelona Zotano, banking professional, Spain;
 - Jerry Olynuk, investment expert, Canada;
+- Marta Myhovych, Treasury assistant, France;
 - Tomasz Guta, lawyer, consultant, researcher, Germany/Poland;
 - Hugh Willan, Diligence LLP, United Kingdom;
 - Simon Remillard, business owner, Canada;
+- Bohdan Mushynskyi, Cybersecurity expert, Poland;
 - Andy Crossley, United Kingdom;
 - Sophia McDougall, writer, United Kingdom;
 - Anne Brataas, writer, United States;
@@ -1988,7 +1992,6 @@ These signatories come from the civil society, academia and the private sector, 
 - Stephen  Bailey 
 - Kostiantyn Taranets
 - Nataliia Platonova
-- Maria Shagina
 - Eric Morice
 - Bruce Moore
 - Karl Pierard
