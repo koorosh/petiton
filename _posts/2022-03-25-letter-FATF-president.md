@@ -5,16 +5,20 @@ categories: [letters]
 ---
 
 **Letter to President of the FATF regarding the public petition calling for Russia's exclusion from the FATF**
+
 Sent on: 25 March 2022
-In the interest of publicity and accountability, the text of the letter is published below.
+
+Disclaimer: In the interest of publicity and accountability, the text of the letter is published below in full, only the contact details have been removed.
+
 
 **From:**
-Mr. Ievgen Vorobiov
+Mr. Ievgen Vorobiov,
 Coordinator, “No Finance For Russia”
 
 **To:**
-Dr. Marcus Pleyer
+Dr. Marcus Pleyer,
 President of Financial Action Task Force
+
 
 Dear Dr. Pleyer,
 
@@ -37,12 +41,13 @@ We urge the FATF Presidency to review our petition and to work towards enacting 
 
 Given that the President of the FATF acts as the principal spokesperson for the FATF and represents the FATF externally, we would like to request that you kindly inform us in writing about the FATF’s position with regard to the petition proposals within the next month. We look forward to continuing our communication with regard to this issue, as it has proven to be of significant legitimate interest to the international public. To that end, we will be also keeping our petition signatories abreast of the FATF Presidency’s response to the petition. 
 
+
 Best regards,
 
-Ievgen Vorobiov (Mr.)
+Ievgen Vorobiov (Mr.),
 LL.M. (Leiden University), Advocacy Coordinator at “No Finance for Russia”
 
-Sergii Rybchenko (Mr.)
+Sergii Rybchenko (Mr.),
 Anti-financial crime and Law enforcement expert
 
 **Attachment to the letter**: Petition and the list of signatories.
