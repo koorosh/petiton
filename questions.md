@@ -71,7 +71,7 @@ The petition calls for four important steps to be made by the FATF:
 
 If the FATF President fails to convene an extraordinary Plenary session any time soon, the FATF Plenary should review
 the issue at
-its [next scheduled meeting in October](https://www.fatf-gafi.org/calendar/eventscalendar/?hf=10&b=10&s=asc(fatf_date1))
+its [next scheduled meeting in June 12-17](https://www.fatf-gafi.org/calendar/eventscalendar/?hf=10&b=10&s=asc(fatf_date1))
 this year.
 
 #### 3. How would expulsion from FATF affect Russia? What would be the impact?
@@ -111,6 +111,7 @@ this year.
   Russia’s central bank, this creative “bank swapping” can happen ad nauseam. When Russia is black-listed as a country,
   there will be no such “safe havens” and leeways: for example, the very fact of a financial institution coming from
   Russia will incentivize a Western bank to apply more controls or to refuse to deal with the Russian entity altogether.
+  ![Number of international sanctions](/assets/image/number_of_international_sanctions.png)
 - These obstacles will **undermine Russia’s trade with the world**, as it will be harder to both receive payments for
   exports
   and make payments for imports. For example: after Iran was blacklisted by FATF in 2020, its export of goods and
