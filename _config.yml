@@ -30,8 +30,11 @@ baseurl: ""
 
 # Navigation menu
 navigation_links:
-#  - title: Petitions
-#    url: /
+  - title: Petitions
+    url: /
+
+  - title: Q&A
+    url: /questions
 
 #  - title: About
 #    url: /about
