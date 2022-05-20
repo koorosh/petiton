@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The FATF continues to ignore public calls for excluding and black-listing Russia
-permalink: /questions
+permalink: /FATF-questions
 ---
 <div style="text-align: right">Drafted by: <b>Ievgen Vorobiov</b>,</div>
 <div style="text-align: right">Advocacy Manager at the “<b>No Finance for Russia</b>” expert group</div>
