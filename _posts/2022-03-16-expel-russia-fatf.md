@@ -227,7 +227,13 @@ At the end of March, the petition will be sent to the FATF along with the names 
 - Sophia McDougall, writer, United Kingdom;
 - Anne Brataas, writer, United States;
 - Stefan Tymkewycz, retired Scottish National Party Councillor, United Kingdom;
-- Nicolas Brousse, Adobe.
+- Nicolas Brousse, Adobe;
+- Pascual	Marques, CEO, Oxford Aerospace Ltd., United Kingdom;
+- Catherine	Kirwan, lawyer, Ireland;
+- Ariana Gic, legal and policy analyst, Canada;
+- Anthony	Alfidi, private investor, United States;
+- Chelita	Healy, Law Society of Ireland;
+- David	Hammond, solicitor, Ireland.
 
 
 
@@ -240,8 +246,8 @@ Loading…</iframe>
 
 ### Signatories from Ukrainian governmental institutions
 
-- **Parliament of Ukraine** (Verkhovna Rada): Yaroslav Yurchyshyn, member of Parliament; Alona Verner, lawyer;
-- **Ministry of Finance of Ukraine**: Denis Ulyutin, Denys Khokhlov, Nataliia Osadcha, Violetta Apanasenko, Liudmila Palamar, Ruslan Baranov, Oksana Venchak, Anton Kolieinikov, Olena Ponomarenko, Liudmyla Mozghova, Oleksandr Sapronov, Maryna Voloshchenko, Yuriy Konyushenko, Serhii  Avramchuk, Nadiia  Onyshchenko, Larysa  Maksymenko, Serhii Burlaka, Victoriia  Khomenko, Volodymyr  Cherkach, Andrii  Savenko, Alla  Koval, Volodymyr Lutak, Nataliia Platonova, Tatiana Malakhova, Dmytro Sydorenko, Anna Lypska, Oleksandr Chubukov, Alla Solomchak, Nadiia Semerenko, Andriy Olefirenko;
+- **Parliament of Ukraine** (Verkhovna Rada): Yaroslav Yurchyshyn, Olena	Moshenets, Mykyta	Poturaiev, Galyna	Tretiakova, Oleksii	Zhmerenetskyi - members of Parliament; Alona Verner, lawyer;
+- **Ministry of Finance of Ukraine**: Denis Ulyutin, Denys Khokhlov, Nataliia Osadcha, Violetta Apanasenko, Liudmila Palamar, Ruslan Baranov, Oksana Venchak, Anton Kolieinikov, Olena Ponomarenko, Liudmyla Mozghova, Oleksandr Sapronov, Maryna Voloshchenko, Yuriy Konyushenko, Serhii  Avramchuk, Nadiia  Onyshchenko, Larysa  Maksymenko, Serhii Burlaka, Victoriia  Khomenko, Volodymyr  Cherkach, Andrii  Savenko, Alla  Koval, Volodymyr Lutak, Nataliia Platonova, Tatiana Malakhova, Dmytro Sydorenko, Anna Lypska, Oleksandr Chubukov, Alla Solomchak, Nadiia Semerenko, Andriy Olefirenko, Petro Kornytskyi;
 - Viktor Pynzenyk, Minister of Finance of Ukraine (2005-2009);
 - **National Bank of Ukraine**: Iryna Priazhentseva, Nataliia Antonenko, Roman Kozlov, Andrii Derhun, Serhii Soltyk, Ihor Prykhodko, Ivan Levkivskyy, Yuri Kod, Anzhela Melnyk, Denys Kulahin, Natalia Haladym, Oksana Shkrobotko, Olga Bezpamiatnykh, Inna Obushok;
 - **State Financial Monitoring Service of Ukraine** (Financial Intelligence Unit of Ukraine): Igor Gaievskyi, Oleksandr Hlushchenko, Liudmyla Ponomarenko, Andriy Synenko, Dmytro Reznichenko, Roman Matiukhov, Anatolii Movchun, Inga Khabenko, Nataliia Maksymiuk, Sergiy Andryushechkin, Iryna Shuliak, Lesia Lesyk, Serhii Starcheskyi, Yana Ovsiannikova, Hanna Zelinska, Volodymer Davydiuk, Olha Stepenko, Yurii Yeremenko, Anastasiia Bezuhla, Mariia Radchenko, Maksym Vasiuk, Lyibov Pidhorodetska, Igor Lipsky, Valerii Pyliai, Vadym Makarevych, Iryna Peliukh, Nataliia Stepovyk, Nadiya Aghazada, Liudmyla Alieinik, Sergiy Andriusnechkin, Oleksandr Antonych, Roman Babushko, Oleh Belisov, Sofia Belisova, Vitaliy Berehivskyi, Andriy Biletskyi, Alina Bilyk, Nataliia Boiko, Valentyna Demchuk, Yuliia Demydova, Natalya Diachenko, Sergii Dihtyarenko, Viktoriia Doma, Dmytro Dubovyk, Igor Galchenko, Igor Geraschenko, Oleksii Harnyk, Serhii Havryliuk, Anastasia Huzovska, Anatolii Khomenko, Iryna Khomenko, Anna Khrystych, Vitaliy Khyliuk, Taras Klodzinskyi, Kostyantin Kolyadenko, Maryna Kononenko, Tetyna Korobchuk, Inna Krasovska, Oksana Krempa, Vadym Kryvonos, Tetiana Kulyk, Tetiana Kypychenko, Lesia Lesyk, Alona Lishchynska, Andrii Lukianenko, Valentyna Lutsenko, Viktoriia Lys, Vadym Makarevych, Krystina Maksymenko, Volodymyr Malyshev, Serhii Melnyk, Inna Merhutska, Oksana Mikhailuk, Daria Morozova, Vitalina Moyko, Oksana Mykhailenko, Oksana Mykhailiuk, Vasyl Myrochynskyi, Liliiya Nedilko, Alla Nikitchuk, Maryna Onyshchenko, Andrii Oprysok, Hlib Ovchinnikov, Olha Ovchinnikova, Ganna Panasenko, Inna Patiuta, Yaroslav Pohorilyi, Oksana Polshkova, Oleg Postoyuk, Sergey Prodan, Mariia Radchenko, Dariia Riazanova, Victoria Saman, Volodymyr Savchenko, Maryna Senich, Serhii Shcherbachuk, Kateryna Shuliak, Anna Solod, Galyna Sugira, Andrii Sukhovetskyi, Alona Torba, Oleh Vasko, Viktoriia Verbova, Oleksandr Vodolahin, Ivan Voichuk, Vladyslav Voitenko, Nataliia Voitiuk, Olena Volnytska, Valentyna Vorobei, Alexandra Yakovenko, Andrew Yeroshenko, Olha Zabudska, Aleksandr Zadorozhnii, Oleg Zakharenko, Olha Zelenska, Hanna Zelinska, Victoria Zvariichuk, Andrii Petrusenko, Nelia	Cherednyk, Alla Nikitchuk, Dariia Riazanova, Kristina	Pitiukha-Medvedeva;
@@ -252,7 +258,7 @@ Loading…</iframe>
 - **National Anti-Corruption Bureau of Ukraine**: Volodymyr Vasylchuk, Vasyl Hudz, Valeriia Zhukova, Volodymyr Usikov, Yurii Kharkevych, Vitalii Kriutchenko, Kateryna Dotsenko, Ganna Gorbenko, Denys Giulmagomedov;
 - **National Agency on Corruption Prevention**: Iaroslav Liubchenko, Timea Prokopchuk, Maxym Trosteniuk, Andrii Iaichuk, Tetyana Perepelytsia, Nataliia Denysiuk, Snizhana Antipina, Artem Artemenko, Serhii Bodenko, Anatoliy Poplavskiy, Valeriy Kharlamov, Roman Kuritskyi, Oleg Paliy, Valeriy Kalevych, Valeriy Kalevych, Ivan Maschenko, Inna Tikhonova, Angelina Korniienko, Yevgen Semeniuta, Mykhailo Panchenko, Oleksandra Panchenko, Maksym Khavrat;
 - **Asset Recovery and Management Agency**: Natalia	Kostynchuk;
-- **National Securities and Stock Market Commission**: Lilia Petrova, Mykola Boichuk;
+- **National Securities and Stock Market Commission**: Lilia Petrova, Mykola Boichuk, Oleh Horhol;
 - **Secretariat of the Cabinet of Ministers of Ukraine**: Hanna Protsak, Serhii Darkin;
 - **State Audit Service of Ukraine**: Snizhana Danylchuk, Nataliia Sukhodol, Yulia Chumak, Laotsa Tsukanova, Yevhenii Kalenichenko, Volodymyr Rybyanets, Vika Shakhova, Volodymyr Laba, Svetlana Rybyunet, Tetiana Dzetsyna, Nataliia Potapchuk, Oleksandr Vyverets, Yulia Rusalchuk, Natalia Soldatenko, Ihor Drozdyk, Iryna Kuliaka, Oksana Skliarova, Natalia Kavaleva, Halyna Kononchuk, Valentina Gergel, Yuliia Zaraiska, Aleksandr Samoilenko, Lena Cherepinska, Yuliia Rudenko, Sergiy Sidliaryk, Olexandr Kovalchuk, Evgeniya Gorova, Anastasia Nechaieva, Vitalii Chernysh, Tetiana Savicheva, Olena Nosyk, Dmytro Ahieiev, Oleksandr Hnizdylo, Alla Ostapenko, Ihor Matsapura, Olena Shvadchenko, Natalia Sosnovska, Alla Ostapenko, Olesia Bavrovska, Natalia Kalinichenko, Zhanna Smolinska, Mykhailo Bondarenko, Albina Myronenko, Inna Shalar, Irina Markova, Svitlana Chernovol, Maryna Hornetska, Svitlava Brich, Svitlana Broda, Olena Pidduda, Nataliya Kolodiy, Anna Mikhailenko, Bohdana Karp, Svitlana Tomliak, Viktoria Dmytrenko, Liudmyla Sosliuk, Olga Shubin, Inna Sova, Artur Beree, Iryna Syvak, Yuliia Popova, Svitlana Kuz, Gelena Kaminska, Olena Leichenko, Ivan  Doshchynskyi, Viktoriya Dmytrenko, Alyona Lesko, Lyudmila Velichko, Oksana Bielikova, Vita Demianiuk, Liudmyla Vyniatynska, Olga Kravchenko, Yurij Kogaychuk, Alexandr Honcharenko, Tatiana Stepaniuk, Serghiy Kazan, Svetlana Storoguk, Marina Alenyna, Taras Diachuk, Irina Romaniuk, Svitlana Fodorova, Roman Vitvitckiy, Elena Petrunia, Angela Radom, Ayshe Zinalieva, Lidiia Telegina, Oleksandr Poliak, Diana Dinar'yeva, Tamara Stepanenko, Nataliya Tunduk, Svitlana Chernovol; Valentina Petuhova.
 
@@ -3542,4 +3548,136 @@ These signatories come from the civil society, academia and the private sector, 
 - Tetiana Raiska
 - Oleksandr  Sinhayivskiyy 
 - Anita Ishchenko
-- Fedorushchenko Bogdan
+- Bohdan Fedorushchenko
+- Dmytro Artemenko
+- Tetyana Avramenko
+- Iryna Avramenko
+- Liudmyla Babkova
+- Tetiana Balakhtar
+- Paolo Barone
+- Olha Barova
+- Irina Belyaeva
+- Alex Benavente
+- Maryna Benedyk
+- Ihor Berehivskyi
+- Vitaliy Bessonov
+- Oleksandra Betliy
+- Ivan Bilyk
+- Tetiana Borsynska
+- Mikhailo Boychuk
+- Ben Brice
+- Susan Burke
+- Andrii Burovskyi
+- Nick Curry
+- Yuliana Davis
+- David Diaz
+- Stanislav Drannikov
+- Sofiia Dunets
+- Yurii Dyvak
+- Oleksandr Dzoba
+- Oksana Fedorchuk
+- Andrey Filippenkov
+- Valeriy Frolov
+- Martin Gardling
+- Anastasiia Gavryliuk
+- Sean Hennessy
+- Serhii Hontarovskyi
+- Ievgenii Borodii
+- Maryna Ilchuk
+- Serhii Ilnytskyi
+- Filip Ivanov
+- Yuliia Ivanova
+- Andrii Kalinich
+- Alla Kalinich
+- Oleksandra Kalinichenko
+- Oleksandr Kaliuzhnyi
+- Stanislav Karpov
+- Andrii Khorolets
+- Lana Kleinig
+- Serhii Kliutsa
+- Anastasia Kobets
+- Svitlana Korchynska
+- Julya Korol
+- Natali Koroleva
+- Yaroslav Korotash
+- Pavlo Krapivin
+- Vadym Kravchenko
+- Taras Kril
+- Akshay Kumar
+- Kateryna Kyrychenko
+- Yaroslava Lahan
+- Baratin Larissa
+- Ihor Lohvenyuk
+- Dmytro Lohvynenko
+- Dmytro Luchaninov
+- Anatoliy Lukyanets
+- Oksana Lyashchuk
+- Petro Lymar
+- Kateryna MacGaw
+- Artem Marushchak
+- Mark McDermott
+- John McDonald
+- Roman Menshov
+- Vitalina Moliarenko
+- Nazar Moroz
+- Tetiana Moroziuk
+- Roman Motychak
+- Anna Movchan
+- Marichka Mykhailova
+- Kostiantyn Mykhailychenko
+- Graham Nash
+- Nataliia Tokar
+- Steve Newcombe
+- Olha Nikolaieva
+- Roman Nitsovych
+- Oleh Novikov
+- Ruslan Obryskyi
+- Fedotova Oleksandra
+- Volodymyr Ovadenko
+- Oleksandra Palash
+- Volodymyr Petriv
+- Iryna Piontkivska
+- Alexandr Pozdnyakov
+- Olena Poznanska
+- Iuliia Praskunina
+- Antonio Priscan
+- Artem Protopopov
+- Marina Prozorova
+- Alona Prystupko
+- Olena Radovska
+- Ruslan Ralikov
+- Alexander Redtchits
+- Olha Riaba
+- Kristina Riabchukova
+- Fabio Rigatti
+- Julia Romaniuk
+- Andriy Rybalchenko
+- Rosina Ryzhaya
+- Olena Sadlovska
+- Nadiya Satkowiak
+- Nataliia Sichevliuk
+- Arthur Simon
+- Svetlana Spirina
+- Bogdan Stefanyshyn
+- Daryna Stelmashchuk
+- Orest Swystun
+- Dmytro Tatarko
+- Roman Teslenko
+- Isabelle Tracy
+- Sanna Travis
+- Yuliia Tsiluiko
+- Andriana Tsyumra
+- Eugene Uvin
+- Serhii Vakulenko
+- Michelle van Min
+- Olena Velyka
+- Dmytro Viakhiriev
+- Vitaliy Trofymov
+- Nicholas Volkening
+- Iuliia Vynnychenko
+- Roman Werpachowski
+- Semen Yatsenko
+- Ivan Yunakov
+- Santier Yves
+- Dmitriy Zhemchuzhnyi
+- Jana Zollerova
