@@ -23,7 +23,7 @@ The FATF has – unfortunately – failed to practise what it preaches. In its o
 
 The FATF presents itself as a technical, apolitical organisation. It should therefore act as one: the easiest way to do so is to compare the principles of the organisation vis-à-vis the actual deeds of Russia. A simple question to ask is whether the FATF would accept the membership of such a country as Russia in its ranks if it had to make that decision from scratch. It is obvious that the majority of FATF members, at least those who have a genuine respect for the rule of law, would not. The same goes for taking the decision on the blacklisting: the overwhelming majority of FATF members understand the risks to the global financial system emanating from Russia. That is why it would be the right thing to formally designate Russia to protect the integrity of the global financial system instead of just "outsourcing" this responsibility to the private sector.
 
-#### Financial In-action Task Force
+#### Financial In-action Task Force?
 
 The FATF delegates at the Plenary should also take a hard look at how their club stands in stark contrast to the decisive actions of other reputable international organizations. Since 24 February 2022, Russia was expelled from the OECD and even a FATF-style regional body: the [Committee of Experts on the Evaluation of Anti-Money Laundering Measures and the Financing of Terrorism (MONEYVAL)](https://www.coe.int/en/web/moneyval/-/the-russian-federation-is-excluded-from-the-council-of-europe-and-moneyval). This obvious singularity of the FATF’s position is evidence that its inaction is a conscious choice – and not just a bureaucratic accident.
 
